@@ -10,4 +10,5 @@
   <li>p5js maps tutorial with long/latitude https://www.youtube.com/watch?v=jCmh_eXwPH0</li>
   <li>Github Page hold over for links! (uses jekyll)</li>
   <li>visualizations done in p5.js (maps)</li>
+  <li>published map la city https://data.lacity.org/Administration-Finance/groceryStoresLA/shcw-dmhp</li>
 <ul>
