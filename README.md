@@ -20,3 +20,5 @@ Serve website locally:
 ```
   bundle exec jekyll serve --baseurl=''
 ```
+
+guide i was using for search function: https://blog.webjeda.com/instant-jekyll-search/#how-to-implement-jekyll-instant-search 
