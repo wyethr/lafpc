@@ -1,8 +1,8 @@
----
+ ---
 ---
 
 [
-	{
+	 {
 		"name": "US Census QuickFacts",
 		"locations": [
 			"state", 
