@@ -1,5 +1,7 @@
 # LAFPC
 
+## SEARCH TO-DO: switch from searching through posts to searching through our own json file
+
 ## To-do List
 <l>
   <li>focus on making the data organized and usable</li>
