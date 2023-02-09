@@ -8,6 +8,9 @@
       for (var i = 0; i < results.length; i++) {  // Iterate over the results
         var item = store[results[i].ref];
         appendString += '<li><a href="' + item.url + '"><h3>' + item.name + '</h3></a>';
+        appendString += '<p>' + 'locations: ' + item.locations + '</p></li>';
+        appendString += '<p>' + 'format: ' + item.format + '</p></li>';
+        appendString += '<p>' + 'data points: ' + item.dataPoints + '</p></li>';
         // appendString += '<p>' + item.content.substring(0, 150) + '...</p></li>';
       }
 
