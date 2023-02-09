@@ -1,4 +1,4 @@
-[
+window.store = [
 	 {
 		"name": "US Census QuickFacts",
 		"locations": [
@@ -9,9 +9,9 @@
 		] ,
 		"url": "https://www.census.gov/quickfacts/fact/table/losangelescitycalifornia/RHI125221",
 		"format": [
-			"table,"
-			"chart,"
-			"map,"
+			"table",
+			"chart",
+			"map",
 			"dashboard"
 		],
 		"dataPoints": [
@@ -28,14 +28,14 @@
 	{
 		"name": "American Community Survey (ACS)",
 		"locations": [
-			"state,"
-			"county,"
-			"census tract,"
+			"state",
+			"county",
+			"census tract",
 			"zip code"
 		],
 		"url": "https://www.census.gov/acs/www/data/data-tables-and-tools/data-profiles/2020/",
 		"format": [
-			"table,"
+			"table",
 			"map"
 		],
 		"dataPoints": [
@@ -162,7 +162,7 @@
 		"format":"map",
 		"dataPoints": [
 			"place of origin",
-			"poverty/income"
+			"poverty/income",
 			"education",
 			"health"
 		],
@@ -219,7 +219,7 @@
 		"dataPoints": [
 			"education",
 			"income/poverty",
-			"food insecurity"
+			"food insecurity",
 			"health"
 		],
 	}
@@ -250,5 +250,4 @@
 			"food assistance"
 		],
 	}
-	,
-]
+];
