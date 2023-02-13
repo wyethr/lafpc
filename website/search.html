@@ -8,6 +8,48 @@ layout: search
 	<input type="submit" value="search">
 </form>
 
+<style>
+    .GFG {
+        background-color: white;
+        border: 2px solid black;
+        color: green;
+        padding: 5px 10px;
+        text-align: center;
+        display: inline-block;
+        font-size: 20px;
+        margin: 10px 30px;
+        cursor: pointer;
+    }
+</style>
+
+<script>
+	function filterSearchURL(quote) {
+		window.location.href = "search.html?query=" + quote;
+	}
+</script>
+
+<fieldset>
+  <legend>Filter by location</legend>
+  <div>
+    <input type="checkbox" id="county" name="locations" value="county" />
+    <label for="county">County</label>
+  </div>
+  <div>
+    <input type="checkbox" id="state" name="locations" value="state" />
+    <label for="state">State</label>
+  </div>
+</fieldset>
+
+<button class="GFG" 
+    onclick="filterSearchURL(document.getElementById('locations').value);">
+        Click Here
+ </button>
+
+
+<script>
+// wyeth just figure this tf out: https://www.geeksforgeeks.org/html-dom-input-checkbox-value-property/ 
+</script>
+
 <ul id="search-results"></ul>
 
 <script src="oldSearch.js">
