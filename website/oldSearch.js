@@ -5,7 +5,7 @@ window.store = [
 			"state", 
 			"county", 
 			"city", 
-			"zip code"
+			"zip"
 		] ,
 		"url": "https://www.census.gov/quickfacts/fact/table/losangelescitycalifornia/RHI125221",
 		"format": [
@@ -30,8 +30,8 @@ window.store = [
 		"locations": [
 			"state",
 			"county",
-			"census tract",
-			"zip code"
+			"censusTract",
+			"zip"
 		],
 		"url": "https://www.census.gov/acs/www/data/data-tables-and-tools/data-profiles/2020/",
 		"format": [
@@ -154,7 +154,7 @@ window.store = [
 		"locations": [
 			"county",
 			"city",
-			"supervisorial district",
+			"supervisorialDistrict",
 			"neighborhood",
 			"address"
 		],
@@ -172,7 +172,7 @@ window.store = [
 		"name": "APRA Projects Map",
 		"locations": [
 			"county",
-			"supervisorial district"
+			"supervisorialDistrict"
 		],
 		"url": "https://appcenter.gis.lacounty.gov/arpa-projects-map/",
 		"format":"map",
@@ -190,8 +190,8 @@ window.store = [
 			"state",
 			"county",
 			"city",
-			"congressional district",
-			"census tract",
+			"congressionalDistrict",
+			"censusTract",
 			"address"
 		],
 		"url": "https://censusreporter.org/profiles/16000US0644000-los-angeles-ca/",
@@ -211,7 +211,7 @@ window.store = [
 		"name": "Neighborhood Data for Social Change",
 		"locations": [
 			"city",
-			"census tract",
+			"censusTract",
 			"neighborhood"
 		],
 		"url": "https://map.myneighborhooddata.org/",
@@ -228,7 +228,7 @@ window.store = [
 		"name": "USC Food Outlets",
 		"locations": [
 			"county",
-			"census tract"
+			"censusTract"
 		],
 		"url": "https://uscssi.maps.arcgis.com/apps/mapviewer/index.html?webmap=43a90661b5e04391a5a2e65eb3564a36",
 		"format":"map",
@@ -240,8 +240,8 @@ window.store = [
 	{
 		"name": "USC Food Desert and Assistance",
 		"locations": [
-			"census tract",
-			"service planning area"
+			"censusTract",
+			"servicePlanningArea"
 		],
 		"url": "https://uscssi.maps.arcgis.com/apps/mapviewer/index.html?webmap=9cac401f6997440fb7af3fa771dfca28",
 		"format":"map",

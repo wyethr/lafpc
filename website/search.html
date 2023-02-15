@@ -8,47 +8,83 @@ layout: search
 	<input type="submit" value="search">
 </form>
 
-<style>
-    .GFG {
-        background-color: white;
-        border: 2px solid black;
-        color: green;
-        padding: 5px 10px;
-        text-align: center;
-        display: inline-block;
-        font-size: 20px;
-        margin: 10px 30px;
-        cursor: pointer;
-    }
-</style>
-
 <script>
-	function filterSearchURL(quote) {
-		window.location.href = "search.html?query=" + quote;
+	function filterSearchURL(values) {
+		currentURL = ''.concat("search.html?query=",...values);
+		window.location.href = currentURL;
+
+		/* let i = 0;
+
+		let currentURL = "search.html?query=";
+
+		while (i < values.length) {
+			currentURL = currentURL + values[i] + "+";
+			i++;
+		}
+
+		window.location.href = currentURL; */ 
 	}
 </script>
 
 <fieldset>
   <legend>Filter by location</legend>
   <div>
-    <input type="checkbox" id="county" name="locations" value="county" />
+    <input type="checkbox" id="address" name="location" value="address" />
+    <label for="address">Address</label>
+  </div>
+  <div>
+    <input type="checkbox" id="censusTract" name="location" value="censusTract" />
+    <label for="censusTract">Census Tract</label>
+  </div>
+  <div>
+    <input type="checkbox" id="city" name="location" value="city" />
+    <label for="city">City</label>
+  </div>
+  <div>
+    <input type="checkbox" id="congressionalDistrict" name="location" value="congressionalDistrict" />
+    <label for="congressionalDistrict">Congressional District</label>
+  </div>
+  <div>
+    <input type="checkbox" id="county" name="location" value="county" />
     <label for="county">County</label>
   </div>
   <div>
-    <input type="checkbox" id="state" name="locations" value="state" />
+    <input type="checkbox" id="neighborhood" name="location" value="neighborhood" />
+    <label for="neighborhood">Neighborhood</label>
+  </div>
+  <div>
+    <input type="checkbox" id="state" name="location" value="state" />
     <label for="state">State</label>
   </div>
+  <div>
+    <input type="checkbox" id="servicePlanningArea" name="location" value="servicePlanningArea" />
+    <label for="servicePlanningArea">Service Planning Area</label>
+  </div>
+  <div>
+    <input type="checkbox" id="supervisorialDistrict" name="location" value="supervisorialDistrict" />
+    <label for="supervisorialDistrict">Supervisorial District</label>
+  </div>
+  <div>
+    <input type="checkbox" id="zip" name="location" value="zip" />
+    <label for="zip">Zip Code</label>
+  </div>
+  <div>
+  	<button id="locationSearch" name="locationSearch"> Search</button>
+  </div>
+
+  <script>
+  	const cb = document.querySelector('#locationSearch');
+  	locationSearch.addEventListener("click", (event) => {
+  		let checkboxes = document.querySelectorAll("input[name='location']:checked");
+  		let values = [];
+  		checkboxes.forEach((checkbox) => {
+  			values.push(checkbox.value + "+");
+  		});
+
+  		filterSearchURL(values);
+  	})
+  </script>
 </fieldset>
-
-<button class="GFG" 
-    onclick="filterSearchURL(document.getElementById('locations').value);">
-        Click Here
- </button>
-
-
-<script>
-// wyeth just figure this tf out: https://www.geeksforgeeks.org/html-dom-input-checkbox-value-property/ 
-</script>
 
 <ul id="search-results"></ul>
 
