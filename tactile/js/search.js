@@ -7,16 +7,16 @@
 
       for (var i = 0; i < results.length; i++) {  // Iterate over the results
         var item = store[results[i].ref];
-        appendString += '<li><a href="' + item.url + '"><h3>' + item.name + '</h3></a>';
+        appendString += '<a href="' + item.url + '"><h3>' + item.name + '</h3></a>';
         appendString += '<p>' + 'locations: ' + item.locations + '</p></li>';
         appendString += '<p>' + 'format: ' + item.format + '</p></li>';
-        appendString += '<p>' + 'data points: ' + item.dataPoints + '</p></li>';
+        appendString += '<p>' + 'data points: ' + item.dataPoints + '</p>';
         // appendString += '<p>' + item.content.substring(0, 150) + '...</p></li>';
       }
 
       searchResults.innerHTML = appendString;
     } else {
-      searchResults.innerHTML = '<li>No results found</li>';
+      searchResults.innerHTML = 'No results found';
     }
   }
 
@@ -42,7 +42,8 @@
     // a boost of 10 to indicate matches on this field are more important.
     var idx = lunr(function () {
       this.field('id');
-      this.field('name', { boost: 10 });
+      this.field('name');
+      // this.field('name', { boost: 10 });
       this.field('format');
       this.field('dataPoints');
       this.field('locations');
