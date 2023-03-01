@@ -1,23 +1,55 @@
 # LAFPC
 
-## SEARCH TO-DO: switch from searching through posts to searching through our own json file
+START AT EQUITY EXPLORER UNDER CENSUS REPORTER
 
-## To-do List
-<l>
-  <li>focus on making the data organized and usable</li>
-  <li>la city grocery stores, corner stores(?), farmers markets map using coordinates</li>
-  <li>use maps to show where people can get (fresh) food</li>
-  <li>embed already-made maps?</li>
-  <li>interactive maps tutorial https://fablab.ruc.dk/interactive-maps/</li>
-  <li>p5js maps tutorial with long/latitude https://www.youtube.com/watch?v=jCmh_eXwPH0</li>
-  <li>Github Page hold over for links! (uses jekyll)</li>
-  <li>visualizations done in p5.js (maps)</li>
-  <li>published map la city https://data.lacity.org/Administration-Finance/groceryStoresLA/shcw-dmhp</li>
-  <li>list of more stuff to make maps https://docs.google.com/document/d/1rsfQ-iRPPXeErhziuYAT8uO4DOmPB6JUy_qQm1KSZeU/edit</li>
-  <li>Old map data visualization project http://stem.marlborough.org/YouthIncarceration/</li>
-  <li>Zip Code map https://www.usmapguide.com/california/los-angeles-zip-code-map/</li>
-  
-<ul>
+locations: 
+* Address
+* Census Tract
+* City
+* Congressional District
+* County
+* Metro
+* Neighborhood
+* State
+* Service Planning Area
+* Supervisorial District
+* Zip Code 
+
+format: 
+* Chart
+* Dashboard
+* Graph
+* Map
+* Table
+
+DATA POINTS: 
+*** Fertility 
+    Census Reporter
+*** Housing 
+    American Community Survey (ACS)
+    Census Reporter
+*** Language 
+    CalFresh Data Tables
+    Census Reporter
+*** Marital Status 
+    Census Reporter
+*** Transportation
+    Census Reporter
+*** Veteran Status
+    Census Reporter
+* Age
+* Education
+* Farmers' Markets
+* Food Assistance
+* Food Deserts
+* Food Insecurity
+* Grocery Stores
+* Health
+* Income/Poverty
+* Place of Origin
+* Race/Ethnicity
+* Restaurants
+* Sex
 
 
 ## Website
@@ -27,4 +59,3 @@ Serve website locally:
   bundle exec jekyll serve --baseurl=''
 ```
 
-guide i was using for search function: https://blog.webjeda.com/instant-jekyll-search/#how-to-implement-jekyll-instant-search 

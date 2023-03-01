@@ -153,36 +153,28 @@ layout: default
         <label for="age">Age</label>
       </div>
       <div>
-        <input type="checkbox" id="CalFresh Data" name="dataPoints" value="CalFresh Data" />
-        <label for="CalFresh Data">CalFresh Data</label>
-      </div>
-      <div>
-        <input type="checkbox" id="CalFresh User" name="dataPoints" value="CalFresh User" />
-        <label for="CalFresh User">CalFresh User</label>
-      </div>
-      <div>
         <input type="checkbox" id="education" name="dataPoints" value="education" />
         <label for="education">Education</label>
       </div>
       <div>
-        <input type="checkbox" id="farmers' markets" name="dataPoints" value="farmers' markets" />
-        <label for="farmers' markets">Farmers' Markets</label>
+        <input type="checkbox" id="farmersMarkets" name="dataPoints" value="farmersMarkets" />
+        <label for="farmersMarkets">Farmers' Markets</label>
       </div>
       <div>
-        <input type="checkbox" id="food assistance" name="dataPoints" value="food assistance" />
-        <label for="food assistance">Food Assistance</label>
+        <input type="checkbox" id="foodAssistance" name="dataPoints" value="foodAssistance" />
+        <label for="foodAssistance">Food Assistance</label>
       </div>
       <div>
-        <input type="checkbox" id="food deserts" name="dataPoints" value="food deserts" />
-        <label for="food deserts">Food Deserts</label>
+        <input type="checkbox" id="foodDeserts" name="dataPoints" value="foodDeserts" />
+        <label for="foodDeserts">Food Deserts</label>
       </div>
       <div>
-        <input type="checkbox" id="food insecurity" name="dataPoints" value="food insecurity" />
-        <label for="food insecurity">Food Insecurity</label>
+        <input type="checkbox" id="foodInsecurity" name="dataPoints" value="foodInsecurity" />
+        <label for="foodInsecurity">Food Insecurity</label>
       </div>
       <div>
-        <input type="checkbox" id="grocery stores" name="dataPoints" value="grocery stores" />
-        <label for="grocery stores">Grocery Stores</label>
+        <input type="checkbox" id="groceryStores" name="dataPoints" value="groceryStores" />
+        <label for="groceryStores">Grocery Stores</label>
       </div>
       <div>
         <input type="checkbox" id="health" name="dataPoints" value="health" />
@@ -193,8 +185,8 @@ layout: default
         <label for="income/poverty">Income/Poverty</label>
       </div>
       <div>
-        <input type="checkbox" id="place of origin" name="dataPoints" value="place of origin" />
-        <label for="place of origin">Place of Origin</label>
+        <input type="checkbox" id="placeOfOrigin" name="dataPoints" value="placeOfOrigin" />
+        <label for="placeOfOrigin">Place of Origin</label>
       </div>
       <div>
         <input type="checkbox" id="race/ethnicity" name="dataPoints" value="race/ethnicity" />
@@ -207,6 +199,10 @@ layout: default
       <div>
         <input type="checkbox" id="sex" name="dataPoints" value="sex" />
         <label for="sex">Sex</label>
+      </div>
+      <div>
+        <input type="checkbox" id="SNAP" name="dataPoints" value="SNAP" />
+        <label for="SNAP">SNAP Data</label>
       </div>
       <div>
         <button id="dataPointsSearch" name="dataPointsSearch"> Search</button>
