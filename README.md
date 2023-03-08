@@ -1,8 +1,8 @@
 # LAFPC
 
-START AT EQUITY EXPLORER UNDER CENSUS REPORTER
+TOTAL NUMBER OF SOURCES: 21
 
-locations: 
+locations:
 * Address
 * Census Tract
 * City
@@ -23,20 +23,16 @@ format:
 * Table
 
 DATA POINTS: 
+*** Environment
+    Neighborhood Data for Social Change
 *** Fertility 
     Census Reporter
-*** Housing 
-    American Community Survey (ACS)
-    Census Reporter
-*** Language 
-    CalFresh Data Tables
-    Census Reporter
-*** Marital Status 
-    Census Reporter
-*** Transportation
-    Census Reporter
+*** Hate Crimes
+    Equity Explorer
 *** Veteran Status
     Census Reporter
+    Neighborhood Data for Social Change
+    US Census QuickFacts
 * Age
 * Education
 * Farmers' Markets

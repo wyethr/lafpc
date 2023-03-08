@@ -16,8 +16,9 @@ window.store = [
 			"age",
 			"education",
 			"health",
+			"housing",
 			"income/poverty",
-			"race",
+			"race/ethnicity",
 			"sex"
 		]
 	}
@@ -35,11 +36,6 @@ window.store = [
 			"foodAssistance",
 			"age",
 			"groceryStores"
-		],
-		"comments": [ 
-			"communityFoodResourceGrants",
-			"foodForPeopleExperiencingHomelessness",
-			"foodAssistanceAwarenessCampaign"
 		]
 	}
 	,
@@ -69,6 +65,7 @@ window.store = [
 		"format": "table",
 		"dataPoints": [
 			"foodInsecurity",
+			"language",
 			"placeOfOrigin",
 			"race/ethnicity",
 			"SNAP"
@@ -100,29 +97,43 @@ window.store = [
 		"dataPoints": [
 			"age",
 			"education",
+			"housing",
 			"income/poverty",
+			"language",
 			"placeOfOrigin",
+			"maritalStatus",
 			"race/ethnicity",
-			"sex"
+			"sex",
+			"transportation",
+			"veteran"
 		],
 	}
 	,
 	{
 		"name": "Equity Explorer Map",
 		"locations": [
+			"address",
+			"censusTract",
 			"county",
-			"city",
-			"supervisorialDistrict",
+			"crime/arrests",
 			"neighborhood",
-			"address"
+			"schoolDistrict",
+			"supervisorialDistrict",
+			"zip"
 		],
 		"url": "https://experience.arcgis.com/experience/9d7a43397ea84ab98a534be5b5376fba/page/Home/?data_id=dataSource_1-HOLC_Neighborhood_Redlining_443%3A385&views=Thematic-Filters",
 		"format":"map",
 		"dataPoints": [
-			"placeOfOrigin",
-			"poverty/income",
+			"disability",
 			"education",
-			"health"
+			"health",
+			"housing",
+			"income/poverty",
+			"language",
+			"placeOfOrigin",
+			"SNAP",
+			"tech",
+			"transportation"
 		],
 	}
 	,
@@ -132,33 +143,38 @@ window.store = [
 		"url": "https://uscssi.maps.arcgis.com/apps/mapviewer/index.html?webmap=aa9c22761b94450180b916140cbd0f12",
 		"format": "map",
 		"dataPoints": [
-			"farmersMarkets",
-			"income/poverty"
+			"income/poverty",
+			"foodAssistance"
 		],
 	}
 	,
 	{
 		"name": "Food Finder Map",
 		"locations": [
-			"county",
+			"address",
 			"city",
-			"neighborhood",
-			"address"
+			"county",
+			"neighborhood"
 		],
 		"url": "https://foodfinder.211la.org/-118.600153,33.825157,-117.868762,34.228188/project?layers=,34,20,18",
 		"format":"map",
 		"dataPoints": [
 			"age",
 			"farmersMarkets",
-			"groceryStores",
 			"foodInsecurity",
-			"foodAssistance"
+			"foodAssistance",
+			"groceryStores"
 		],
 	}
 	,
 	{
 		"name": "Los Angeles Food Resources",
-		"locations": "city",
+		"locations": [
+			"address",
+			"city",
+			"county",
+			"zip"
+		],
 		"url": "https://controllerdata.lacity.org/dataset/Food-Resources-in-California/v2mg-qsxf",
 		"format":"table",
 		"dataPoints": [
@@ -169,17 +185,28 @@ window.store = [
 	{
 		"name": "Neighborhood Data for Social Change",
 		"locations": [
-			"city",
+			"address",
 			"censusTract",
+			"city",
 			"neighborhood"
 		],
 		"url": "https://map.myneighborhooddata.org/",
 		"format":"map",
 		"dataPoints": [
+			"age",
+			"crime/arrests",
+			"disability",
 			"education",
-			"income/poverty",
 			"foodInsecurity",
-			"health"
+			"health",
+			"housing",
+			"income/poverty",
+			"maritalStatus",
+			"placeOfOrigin",
+			"race/ethnicity",
+			"SNAP",
+			"transportation",
+			"veteran"
 		],
 	}
 	,
@@ -200,14 +227,14 @@ window.store = [
 	{
 		"name": "SAIPE Model Input Data",
 		"locations": [
-			"city",
+			"county",
 			"state"
 		],
 		"url": "https://www.census.gov/data/datasets/time-series/demo/saipe/model-tables.html",
 		"format":"table",
 		"dataPoints": [
 			"income/poverty",
-			"foodAssistance",
+			"SNAP"
 		],
 	}
 	,
@@ -219,19 +246,19 @@ window.store = [
 		],
 		"url": "https://www.census.gov/data-tools/demo/saipe_treemap/saipe_snap_treemap.html",
 		"format": [
-			"map",
+			"map"
 		],
 		"dataPoints": [
-			"foodAssistance"
+			"SNAP"
 		],
 	}
 	,
 	{
 		"name": "Small Area Income and Poverty Estimates (SAIPE)",
 		"locations": [
-			"state",
 			"county",
-			"school district"
+			"schoolDistrict",
+			"state"
 		],
 		"url": "https://www.census.gov/data-tools/demo/saipe/#/",
 		"format": [
@@ -240,22 +267,25 @@ window.store = [
 			"graph"
 		],
 		"dataPoints": [
-			"income/poverty",
-			"age"
+			"age",
+			"income/poverty"
 		],
 	}
 	,
 	{
 		"name": "SNAP Community Characteristics - California",
 		"locations": [
-			"congressionalDistrict"
+			"congressionalDistrict",
+			"state"
 		],
 		"url": "https://www.fns.usda.gov/ops/snap-community-characteristics-california",
 		"format":"table",
 		"dataPoints": [
-			"foodAssistance",
-			"race",
-			"income/poverty"
+			"age",
+			"disability",
+			"income/poverty",
+			"race/ethnicity",
+			"SNAP"
 		]
 	}
 	,
@@ -263,52 +293,57 @@ window.store = [
 		"name": "USC Food Desert and Assistance",
 		"locations": [
 			"censusTract",
+			"county",
 			"servicePlanningArea"
 		],
 		"url": "https://uscssi.maps.arcgis.com/apps/mapviewer/index.html?webmap=9cac401f6997440fb7af3fa771dfca28",
 		"format":"map",
 		"dataPoints": [
-			"foodDeserts",
-			"foodAssistance"
+			"foodAssistance",
+			"foodInsecurity"
 		],
 	}
 	,
 	{
 		"name": "USC Food Outlets",
 		"locations": [
+			"censusTract",
 			"county",
-			"censusTract"
+			"servicePlanningArea"
 		],
 		"url": "https://uscssi.maps.arcgis.com/apps/mapviewer/index.html?webmap=43a90661b5e04391a5a2e65eb3564a36",
 		"format":"map",
 		"dataPoints": [
-			"foodAssistance"
+			"foodInsecurity"
 		],
 	}
 	,
 	{
 		"name": "US Census QuickFacts",
 		"locations": [
-			"state", 
-			"county", 
 			"city", 
+			"county", 
+			"state", 
 			"zip"
 		] ,
 		"url": "https://www.census.gov/quickfacts/fact/table/losangelescitycalifornia/RHI125221",
 		"format": [
-			"table",
-			"chart",
-			"map",
-			"dashboard"
+			"table"
 		],
 		"dataPoints": [
+			"age",
+			"disability",
+			"education",
+			"health",
+			"housing",
+			"income/poverty",
+			"language",
+			"placeOfOrigin",
 			"race/ethnicity",
 			"sex",
-			"age",
-			"placeOfOrigin",
-			"education",
-			"income/poverty",
-			"health"
+			"tech",
+			"transportation",
+			"veteran"
 		]
 	}
 	,
@@ -321,13 +356,17 @@ window.store = [
 		"url": "https://www.ers.usda.gov/data-products/food-environment-atlas/go-to-the-atlas/",
 		"format":"map",
 		"dataPoints": [
-			"income/poverty",
-			"groceryStores",
-			"restaurants",
+			"age",
 			"farmersMarkets",
+			"foodAssistance",
 			"foodInsecurity",
+			"groceryStores",
 			"health",
-			"foodAssistance"
+			"income/poverty",
+			"race/ethnicity",
+			"restaurants",
+			"SNAP",
+			"transportation"
 		],
 	}
 	,
@@ -342,7 +381,7 @@ window.store = [
 		"url": "https://usda-fns.hub.arcgis.com/datasets/USDA-FNS::snap-store-locations/explore?filters=eyJDb3VudHkiOlsiTE9TIEFOR0VMRVMiXX0%3D&location=34.303780%2C-118.388741%2C9.16",
 		"format":"map",
 		"dataPoints": [
-			"foodAssistance"
+			"SNAP"
 		],
 	}
 ];

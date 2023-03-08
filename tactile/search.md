@@ -37,7 +37,6 @@ layout: default
     flex:33%;
     padding: 10px;
   }
-
 </style>
 
 <div class="row">
@@ -73,8 +72,8 @@ layout: default
         <label for="neighborhood">Neighborhood</label>
       </div>
       <div>
-        <input type="checkbox" id="state" name="location" value="state" />
-        <label for="state">State</label>
+        <input type="checkbox" id="schoolDistrict" name="location" value="schoolDistrict" />
+        <label for="schoolDistrict">School District</label>
       </div>
       <div>
         <input type="checkbox" id="servicePlanningArea" name="location" value="servicePlanningArea" />
@@ -83,6 +82,10 @@ layout: default
       <div>
         <input type="checkbox" id="supervisorialDistrict" name="location" value="supervisorialDistrict" />
         <label for="supervisorialDistrict">Supervisorial District</label>
+      </div>
+      <div>
+        <input type="checkbox" id="state" name="location" value="state" />
+        <label for="state">State</label>
       </div>
       <div>
         <input type="checkbox" id="zip" name="location" value="zip" />
@@ -108,14 +111,6 @@ layout: default
   <div class="column">
     <fieldset>
       <legend>Filter by format</legend>
-      <div>
-        <input type="checkbox" id="chart" name="format" value="chart" />
-        <label for="chart">Chart</label>
-      </div>
-      <div>
-        <input type="checkbox" id="dashboard" name="format" value="dashboard" />
-        <label for="dashboard">Dashboard</label>
-      </div>
       <div>
         <input type="checkbox" id="graph" name="format" value="graph" />
         <label for="graph">Graph</label>
@@ -153,6 +148,14 @@ layout: default
         <label for="age">Age</label>
       </div>
       <div>
+        <input type="checkbox" id="crime/arrests" name="dataPoints" value="crime/arrests" />
+        <label for="crime/arrests">Crime/Arrests</label>
+      </div>
+      <div>
+        <input type="checkbox" id="disability" name="dataPoints" value="disability" />
+        <label for="disability">Disability Status</label>
+      </div>
+      <div>
         <input type="checkbox" id="education" name="dataPoints" value="education" />
         <label for="education">Education</label>
       </div>
@@ -163,10 +166,6 @@ layout: default
       <div>
         <input type="checkbox" id="foodAssistance" name="dataPoints" value="foodAssistance" />
         <label for="foodAssistance">Food Assistance</label>
-      </div>
-      <div>
-        <input type="checkbox" id="foodDeserts" name="dataPoints" value="foodDeserts" />
-        <label for="foodDeserts">Food Deserts</label>
       </div>
       <div>
         <input type="checkbox" id="foodInsecurity" name="dataPoints" value="foodInsecurity" />
@@ -181,12 +180,24 @@ layout: default
         <label for="health">Health</label>
       </div>
       <div>
+        <input type="checkbox" id="housing" name="dataPoints" value="housing" />
+        <label for="housing">Housing</label>
+      </div>
+      <div>
         <input type="checkbox" id="income/poverty" name="dataPoints" value="income/poverty" />
         <label for="income/poverty">Income/Poverty</label>
       </div>
       <div>
+        <input type="checkbox" id="language" name="dataPoints" value="langauge" />
+        <label for="language">Language</label>
+      </div>
+      <div>
+        <input type="checkbox" id="maritalStatus" name="dataPoints" value="maritalStatus" />
+        <label for="maritalStatus">Marital Status</label>
+      </div>
+      <div>
         <input type="checkbox" id="placeOfOrigin" name="dataPoints" value="placeOfOrigin" />
-        <label for="placeOfOrigin">Place of Origin</label>
+        <label for="placeOfOrigin">Immigrant Status/Place of Origin</label>
       </div>
       <div>
         <input type="checkbox" id="race/ethnicity" name="dataPoints" value="race/ethnicity" />
@@ -202,7 +213,19 @@ layout: default
       </div>
       <div>
         <input type="checkbox" id="SNAP" name="dataPoints" value="SNAP" />
-        <label for="SNAP">SNAP Data</label>
+        <label for="SNAP">SNAP Data and Participation</label>
+      </div>
+      <div>
+        <input type="checkbox" id="tech" name="dataPoints" value="tech" />
+        <label for="tech">Technology/Internet Access</label>
+      </div>
+      <div>
+        <input type="checkbox" id="transportation" name="dataPoints" value="transportation" />
+        <label for="transportation">Transportation</label>
+      </div>
+      <div>
+        <input type="checkbox" id="veteran" name="dataPoints" value="veteran" />
+        <label for="veteran">Veteran Status</label>
       </div>
       <div>
         <button id="dataPointsSearch" name="dataPointsSearch"> Search</button>
