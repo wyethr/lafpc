@@ -1,6 +1,6 @@
 let groc;
 let farm;
-let img;
+// let img;
 
 let gnumRows, glong, glati, gmaxLng, gminLng, gmaxLat, gminLat;
 let fnumRows, flong, flati, fmaxLng, fminLng, fmaxLat, fminLat;
@@ -9,11 +9,11 @@ function preload(){
   
   groc = loadTable("Grocery_Stores2.csv", "csv", "header");
   farm = loadTable("CurrentMrktsCounty.csv", "csv", "header");
-  img = loadImage("la_county.png");
+  // img = loadImage("la_county.png");
 }
 
 function setup() {
-  createCanvas(img.width, img.height);
+  createCanvas(500, 500);
   background(255);
   
   //image(img, 0, 0);

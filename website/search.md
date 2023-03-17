@@ -4,7 +4,7 @@ title: Search
 
 ---
 
-Hello
+Insert description
 
 <center>
   <form action="/search.html" method="get">
