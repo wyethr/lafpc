@@ -9,11 +9,12 @@ function preload(){
   
   groc = loadTable("Grocery_Stores2.csv", "csv", "header");
   farm = loadTable("CurrentMrktsCounty.csv", "csv", "header");
+
   // img = loadImage("la_county.png");
 }
 
-function setup() {
-  createCanvas(500, 500);
+function setup() {  
+  createCanvas(1000, 1000);
   background(255);
   
   //image(img, 0, 0);
@@ -21,8 +22,8 @@ function setup() {
   sortGPoints();
   sortFPoints();
   
-  print(gminLng, gminLat);
-  print(fminLng, fminLat);
+  //print(gminLng, gminLat);
+  //print(fminLng, fminLat);
   
   drawPoints(gnumRows, glati, glong, "g");
   drawPoints(fnumRows, flati, flong, "f");
@@ -48,24 +49,32 @@ function drawPoints(numRows, lat, lng, type){
       stroke(200, 20, 20);
     }
     strokeWeight(10);
+    // point(i, i);
     point(mapLng, mapLat);
-    print("drew");
+    //print("drew " + type + ": " + i);
+    //print("    " + mapLng + ", " + mapLat);
   }
 }
 
 function sortGPoints(){
   gnumRows = groc.getRowCount();
-  glong = groc.getColumn("LONG");
-  glati = groc.getColumn("LAT");
+  glong = groc.getColumn("Long");
+  glati = groc.getColumn("Lat");
 
 
   for(let i=0;i<gnumRows;i++){
     if(glong[i] == 1000 || glong[i] == null || Number.isNaN(glong[i]) || glong[i] > -115 ){
+      //print("g" + i + " = " + glong[i]);
       glong.splice(i, 1);
     }
     if(glati[i] == 1000 || glati[i] == null|| Number.isNaN(glati[i]) || glati[i] > 35){
+      //print("g" + i + " = " + glong[i]);
       glati.splice(i, 1);
     }
+
+    //glong[i] = parseFloat(glong[i]);
+    //glati[i] = parseFloat(glati[i]);
+
     
   }
   
@@ -78,16 +87,25 @@ function sortGPoints(){
 
 function sortFPoints(){
   fnumRows = farm.getRowCount();
-  flong = farm.getColumn("Long");
+  //print(fnumRows);
+  flong = farm.getColumn("Market Phone");
+  print("flong = " + flong);
   flati = farm.getColumn("Lat");
 
-  for(let i=0;i<gnumRows;i++){
+  for(let i=0;i<fnumRows;i++){
     if(flong[i] == 1000 || flong[i] == null || Number.isNaN(flong[i])){
+      //print("f" + i + " = " + flong[i]);
       flong.splice(i, 1);
     }
     if(flati[i] == 1000 || flati[i] == null|| Number.isNaN(flati[i])){
+      //print("f" + i + " = " + flong[i]);
       flati.splice(i, 1);
     }
+
+
+    //glong[i] = parseFloat(glong[i]);
+    //glati[i] = parseFloat(glati[i]);
+
   }
   
   fmaxLng = max(flong);
