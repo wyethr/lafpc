@@ -3,15 +3,34 @@
     var searchResults = document.getElementById('search-results');
 
     if (results.length) { // Are there any results?
-      var appendString = '';
+      var appendString = '<p><center><em>' + results.length + ' results found' + '</em></center></p>';
 
       for (var i = 0; i < results.length; i++) {  // Iterate over the results
         var item = store[results[i].ref];
         appendString += '<a href="' + item.url + '"><h3>' + item.name + '</h3></a>';
-        appendString += '<p>' + 'locations: ' + item.locations + '</p></li>';
-        appendString += '<p>' + 'format: ' + item.format + '</p></li>';
-        appendString += '<p>' + 'data points: ' + item.dataPoints + '</p>';
-        // appendString += '<p>' + item.content.substring(0, 150) + '...</p></li>';
+
+        appendString += '<p>' + 'locations: <strong>';
+        for (var locationKey = 0; locationKey < item.locations.length - 1; locationKey++) {
+          appendString += item.locations[locationKey] + ', ';
+        }
+        appendString += item.locations[locationKey] + '</strong></p></li>';
+
+        appendString += '<p>' + 'format: <strong>';
+        for (var formatKey = 0; formatKey < item.format.length - 1; formatKey++) {
+          appendString += item.format[formatKey] + ', ';
+        }
+        appendString += item.format[formatKey] + '</strong></p></li>';
+
+        appendString += '<p>' + 'dataPoints: <strong>';
+        for (var dataPointsKey = 0; dataPointsKey < item.dataPoints.length - 1; dataPointsKey++) {
+          appendString += item.dataPoints[dataPointsKey] + ', ';
+        }
+        appendString += item.dataPoints[dataPointsKey] + '</strong></p></li>';
+
+        //appendString += '<p>' + 'locations: <strong>' + item.locations + '</strong></p></li>';
+        //appendString += '<p>' + 'format: <strong>' + item.format + '</strong></p></li>';
+        //appendString += '<p>' + 'data points: <strong>' + item.dataPoints + '</strong></p>';
+        //appendString += '<p>' + item.content.substring(0, 150) + '...</p></li>';
       }
 
       searchResults.innerHTML = appendString;
