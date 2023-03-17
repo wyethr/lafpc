@@ -120,6 +120,10 @@ layout: default
         <label for="map">Map</label>
       </div>
       <div>
+       <input type="checkbox" id="study" name="format" value="study" />
+        <label for="study">Report/Study</label>
+      </div>
+      <div>
         <input type="checkbox" id="table" name="format" value="table" />
         <label for="table">Table</label>
       </div>
@@ -148,12 +152,20 @@ layout: default
         <label for="age">Age</label>
       </div>
       <div>
+        <input type="checkbox" id="COVID" name="dataPoints" value="COVID" />
+        <label for="COVID">COVID</label>
+      </div>
+      <div>
         <input type="checkbox" id="crime/arrests" name="dataPoints" value="crime/arrests" />
         <label for="crime/arrests">Crime/Arrests</label>
       </div>
       <div>
         <input type="checkbox" id="disability" name="dataPoints" value="disability" />
         <label for="disability">Disability Status</label>
+      </div>
+      <div>
+        <input type="checkbox" id="drug" name="dataPoints" value="drug" />
+        <label for="drug">Drug Usage</label>
       </div>
       <div>
         <input type="checkbox" id="education" name="dataPoints" value="education" />
@@ -169,7 +181,7 @@ layout: default
       </div>
       <div>
         <input type="checkbox" id="foodInsecurity" name="dataPoints" value="foodInsecurity" />
-        <label for="foodInsecurity">Food Insecurity</label>
+        <label for="foodInsecurity">Food Insecurity and Access</label>
       </div>
       <div>
         <input type="checkbox" id="groceryStores" name="dataPoints" value="groceryStores" />
