@@ -6,17 +6,73 @@ title: Search
 
 Insert description
 
+<style>
+  input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+
+  input[type=submit] {
+    width: 100%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+
+  fieldset {
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+  }
+
+  .legend {
+    border: solid 1px black;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+  }
+
+  .row {
+    display: flex;
+  }
+
+  .column {
+    flex:50%;
+    padding: 5px;
+  }
+
+  .filterSearch {
+    width: 25%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 10px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+</style>
+
 <center>
   <form action="/search.html" method="get">
-   	<!-- <label for="search-box">time</label> -->
-   	<input type="text" id="search-box" name="query">
-   	<input type="submit" value="Search">
+    <!-- <label for="search-box">time</label> -->
+    <input type="text" id="search-box" name="query">
+    <input type="submit" value="Search">
   </form> 
 </center>
 
 <script>
 	function filterSearchURL(values) {
-		currentURL = ''.concat("search.html?query=",...values);
+		currentURL = ''.concat("search?query=",...values);
 		window.location.href = currentURL;
 
 		/* let i = 0;
@@ -32,24 +88,15 @@ Insert description
 	}
 </script>
 
-<style>
-  .row {
-    display: flex;
-  }
-
-  .column {
-    flex:50%;
-    padding: 10px;
-  }
-</style>
-
 <div class="row">
   <div class="column">
     <fieldset>
       <legend>Filter by format</legend>
       <div>
-        <input type="checkbox" id="graph" name="format" value="graph" />
-        <label for="graph">Graph</label>
+        <label class="form-control">
+          <input type="checkbox" id="graph" name="format" value="graph" />
+          Graph
+        </label>
       </div>
       <div>
         <input type="checkbox" id="map" name="format" value="map" />
@@ -64,7 +111,7 @@ Insert description
         <label for="table">Table</label>
       </div>
       <div>
-        <button id="formatSearch" name="formatSearch"> Search</button>
+        <button class = "filterSearch" id="formatSearch" name="formatSearch"> Search</button>
       </div>
       <script>
         const formatCB = document.querySelector('#formatSearch');
@@ -131,7 +178,7 @@ Insert description
         <label for="zip">Zip Code</label>
       </div>
       <div>
-        <button id="locationSearch" name="locationSearch"> Search</button>
+        <button class = "filterSearch" id="locationSearch" name="locationSearch"> Search</button>
       </div>
       <script>
         const locationCB = document.querySelector('#locationSearch');
@@ -243,7 +290,7 @@ Insert description
         <label for="veteran">Veteran Status</label>
       </div>
       <div>
-        <button id="dataPointsSearch" name="dataPointsSearch"> Search</button>
+        <button class = "filterSearch" id="dataPointsSearch" name="dataPointsSearch"> Search</button>
       </div>
       <script>
         const dataPointsCB = document.querySelector('#dataPointsSearch');
