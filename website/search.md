@@ -1,12 +1,16 @@
 ---
-layout: default
+layout: page
+title: Search
+
 ---
+
+Hello
 
 <center>
   <form action="/search.html" method="get">
    	<!-- <label for="search-box">time</label> -->
    	<input type="text" id="search-box" name="query">
-   	<input type="submit" value="search">
+   	<input type="submit" value="Search">
   </form> 
 </center>
 
@@ -34,13 +38,48 @@ layout: default
   }
 
   .column {
-    flex:33%;
+    flex:50%;
     padding: 10px;
   }
 </style>
 
 <div class="row">
   <div class="column">
+    <fieldset>
+      <legend>Filter by format</legend>
+      <div>
+        <input type="checkbox" id="graph" name="format" value="graph" />
+        <label for="graph">Graph</label>
+      </div>
+      <div>
+        <input type="checkbox" id="map" name="format" value="map" />
+        <label for="map">Map</label>
+      </div>
+      <div>
+       <input type="checkbox" id="study" name="format" value="study" />
+        <label for="study">Report/Study</label>
+      </div>
+      <div>
+        <input type="checkbox" id="table" name="format" value="table" />
+        <label for="table">Table</label>
+      </div>
+      <div>
+        <button id="formatSearch" name="formatSearch"> Search</button>
+      </div>
+      <script>
+        const formatCB = document.querySelector('#formatSearch');
+        formatSearch.addEventListener("click", (event) => {
+          let checkboxes = document.querySelectorAll("input[name='format']:checked");
+          let values = [];
+          checkboxes.forEach((checkbox) => {
+            values.push(checkbox.value + "+");
+          });
+
+          filterSearchURL(values);
+        })
+      </script>
+    </fieldset>
+    <p> </p>
     <fieldset>
       <legend>Filter by location</legend>
       <div>
@@ -98,42 +137,6 @@ layout: default
         const locationCB = document.querySelector('#locationSearch');
         locationSearch.addEventListener("click", (event) => {
           let checkboxes = document.querySelectorAll("input[name='location']:checked");
-          let values = [];
-          checkboxes.forEach((checkbox) => {
-            values.push(checkbox.value + "+");
-          });
-
-          filterSearchURL(values);
-        })
-      </script>
-    </fieldset>
-  </div>
-  <div class="column">
-    <fieldset>
-      <legend>Filter by format</legend>
-      <div>
-        <input type="checkbox" id="graph" name="format" value="graph" />
-        <label for="graph">Graph</label>
-      </div>
-      <div>
-        <input type="checkbox" id="map" name="format" value="map" />
-        <label for="map">Map</label>
-      </div>
-      <div>
-       <input type="checkbox" id="study" name="format" value="study" />
-        <label for="study">Report/Study</label>
-      </div>
-      <div>
-        <input type="checkbox" id="table" name="format" value="table" />
-        <label for="table">Table</label>
-      </div>
-      <div>
-        <button id="formatSearch" name="formatSearch"> Search</button>
-      </div>
-      <script>
-        const formatCB = document.querySelector('#formatSearch');
-        formatSearch.addEventListener("click", (event) => {
-          let checkboxes = document.querySelectorAll("input[name='format']:checked");
           let values = [];
           checkboxes.forEach((checkbox) => {
             values.push(checkbox.value + "+");
