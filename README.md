@@ -1,5 +1,7 @@
 # LAFPC
 
+https://www.eliascarter.ca/2021/09/11/customizing-jekyll-header-and-footer.html
+
 TOTAL NUMBER OF SOURCES: 23 [need to count]
 
 NEW POTENTIAL DATA POINTS: 

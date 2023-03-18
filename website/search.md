@@ -1,66 +1,28 @@
 ---
-layout: page
+layout: default
 title: Search
-
+permalink: /search.html
 ---
 
-Insert description
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css">
+  </head>
+</html>
 
-<style>
-  input[type=text] {
-    width: 100%;
-    padding: 12px 20px;
-    margin: 8px 0;
-    display: inline-block;
-    border: 1px solid #ccc;
-    border-radius: 4px;
-    box-sizing: border-box;
-  }
 
-  input[type=submit] {
-    width: 100%;
-    background-color: #4CAF50;
-    color: white;
-    padding: 14px 20px;
-    margin: 8px 0;
-    border: none;
-    border-radius: 4px;
-    cursor: pointer;
-  }
+<center> 
+  <h2>About the Project</h2>
 
-  fieldset {
-    -webkit-border-radius: 8px;
-    -moz-border-radius: 8px;
-    border-radius: 8px;
-  }
+  This directory was created in parternship with the Los Angeles Food Policy Council. Currently synthesizing _____ sources and datasets, it was made to help researchers and policymakers better understand food insecurity in the Los Angeles area.
 
-  .legend {
-    border: solid 1px black;
-    -webkit-border-radius: 8px;
-    -moz-border-radius: 8px;
-    border-radius: 8px;
-  }
+  <p> </p>
 
-  .row {
-    display: flex;
-  }
+  <i>Found some published research or data you think should be included? Help us improve our database by sending the link to your-email@example.com.</i>
 
-  .column {
-    flex:50%;
-    padding: 5px;
-  }
+</center>
 
-  .filterSearch {
-    width: 25%;
-    background-color: #4CAF50;
-    color: white;
-    padding: 10px 10px;
-    margin: 8px 0;
-    border: none;
-    border-radius: 4px;
-    cursor: pointer;
-  }
-</style>
+<p> </p>
 
 <center>
   <form action="/search.html" method="get">
@@ -72,7 +34,7 @@ Insert description
 
 <script>
 	function filterSearchURL(values) {
-		currentURL = ''.concat("search?query=",...values);
+		currentURL = ''.concat("/search.html?query=",...values);
 		window.location.href = currentURL;
 
 		/* let i = 0;
@@ -99,16 +61,22 @@ Insert description
         </label>
       </div>
       <div>
-        <input type="checkbox" id="map" name="format" value="map" />
-        <label for="map">Map</label>
+        <label class="form-control">
+          <input type="checkbox" id="map" name="format" value="map" />
+          Map
+        </label>
       </div>
       <div>
-       <input type="checkbox" id="study" name="format" value="study" />
-        <label for="study">Report/Study</label>
+        <label class="form-control">
+          <input type="checkbox" id="study" name="format" value="study" />
+          Report/Study
+        </label>
       </div>
       <div>
-        <input type="checkbox" id="table" name="format" value="table" />
-        <label for="table">Table</label>
+        <label class="form-control">
+          <input type="checkbox" id="table" name="format" value="table" />
+          Table
+        </label>
       </div>
       <div>
         <button class = "filterSearch" id="formatSearch" name="formatSearch"> Search</button>
@@ -239,7 +207,7 @@ Insert description
       </div>
       <div>
         <input type="checkbox" id="health" name="dataPoints" value="health" />
-        <label for="health">Health</label>
+        <label for="health">Health Care</label>
       </div>
       <div>
         <input type="checkbox" id="housing" name="dataPoints" value="housing" />
@@ -250,7 +218,7 @@ Insert description
         <label for="income/poverty">Income/Poverty</label>
       </div>
       <div>
-        <input type="checkbox" id="language" name="dataPoints" value="langauge" />
+        <input type="checkbox" id="language" name="dataPoints" value="language" />
         <label for="language">Language</label>
       </div>
       <div>
@@ -275,7 +243,7 @@ Insert description
       </div>
       <div>
         <input type="checkbox" id="SNAP" name="dataPoints" value="SNAP" />
-        <label for="SNAP">SNAP Data and Participation</label>
+        <label for="SNAP">SNAP Data/Participation</label>
       </div>
       <div>
         <input type="checkbox" id="tech" name="dataPoints" value="tech" />
@@ -327,4 +295,3 @@ Insert description
 
 <script src="js/lunr.min.js"></script>
 <script src="js/search.js"></script>
-

@@ -3,7 +3,13 @@
     var searchResults = document.getElementById('search-results');
 
     if (results.length) { // Are there any results?
-      var appendString = '<p><center><em>' + results.length + ' results found' + '</em></center></p>';
+      var appendString = '';
+      if (results.length > 1) {
+        appendString += '<p><center><em>--- ' + results.length + ' results found ---' + '</em></center></p>';
+      }
+      else if (results.length = 1) {
+        appendString += '<p><center><em>--- ' + results.length + ' result found ---' + '</em></center></p>';
+      }
 
       for (var i = 0; i < results.length; i++) {  // Iterate over the results
         var item = store[results[i].ref];
