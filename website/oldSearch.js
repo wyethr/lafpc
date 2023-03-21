@@ -398,6 +398,23 @@ window.store = [
 	}
 	,
 	{
+      "name": "Ricks et al. 2015 - 'Food insecurity and intimate partner violence against women: results from the California Women’s Health Survey'",
+      "locations": [
+      	"state"
+      ],
+      "url": "https://www.cambridge.org/core/journals/public-health-nutrition/article/food-insecurity-and-intimate-partner-violence-against-women-results-from-the-california-womens-health-survey/BB8569349DF06712C0F3DFE2F84B9911",
+      "format": [
+      	"study"
+      ],
+      "dataPoints": [
+      	"education",
+      	"foodInsecurity",
+      	"income/poverty",
+      	"race/ethnicity"
+      ]
+    }
+    ,
+	{
 		"name": "SAIPE Model Input Data",
 		"locations": [
 			"county",

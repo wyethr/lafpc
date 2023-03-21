@@ -7,6 +7,8 @@ TOTAL NUMBER OF SOURCES: 23 [need to count]
 NEW POTENTIAL DATA POINTS: 
 *** Childhood Food Insecurity
     Martinez et al. 2017 - UC school system
+*** Domestic Violence
+    Ricks et al. 2016 - 'food insecurity and intimiate partner violence'
 *** Environment
     Neighborhood Data for Social Change
 *** Fertility 
@@ -17,6 +19,7 @@ NEW POTENTIAL DATA POINTS:
     Los Angeles County Department of Public Health - Social Determinants of Health
 *** Presence of Children - a lot more 
     Furness et al. 2007
+    Ricks et al. 2015 - intimate partner violence
 *** Sexuality 
     Wiss et al. 2021 - Men Who Have Sex With Men + Drugs
 *** Social Network/Connectedness

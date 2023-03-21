@@ -4,17 +4,29 @@ title: Search
 permalink: /search.html
 ---
 
+<script>
+  console.log({{- site.description | escape -}});
+</script>
+
 <html>
   <head>
     <link rel="stylesheet" href="style.css">
   </head>
 </html>
 
+<script>
+  function getLength() {
+    var length = window.store.length;
+    document.getElementById("length").innerHTML = length;
+  }
+</script>
+
+<body onload="getLength()"> </body>
 
 <center> 
   <h2>About the Project</h2>
 
-  This directory was created in parternship with the Los Angeles Food Policy Council. Currently synthesizing _____ sources and datasets, it was made to help researchers and policymakers better understand food insecurity in the Los Angeles area.
+  This directory was created in parternship with the Los Angeles Food Policy Council. Currently synthesizing <span id="length"></span> sources and datasets, it was made to help researchers and policymakers better understand food insecurity in the Los Angeles area.
 
   <p> </p>
 
