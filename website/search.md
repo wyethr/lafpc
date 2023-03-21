@@ -4,10 +4,6 @@ title: Search
 permalink: /search.html
 ---
 
-<script>
-  console.log({{- site.description | escape -}});
-</script>
-
 <html>
   <head>
     <link rel="stylesheet" href="style.css">
