@@ -33,7 +33,7 @@ permalink: /search.html
 <p> </p>
 
 <center>
-  <form action="/search.html" method="get">
+  <form action="/lafpc/search.html" method="get">
     <!-- <label for="search-box">time</label> -->
     <input type="text" id="search-box" name="query">
     <input type="submit" value="Search">
