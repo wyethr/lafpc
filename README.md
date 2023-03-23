@@ -96,3 +96,13 @@ Serve website locally:
   bundle exec jekyll serve --baseurl=''
 ```
 
+Build website for the web: 
+```
+    buildWebsite
+    bundle exec jekyll build
+```
+
+Adding permissions: 
+``` 
+    chmod +x buildWebsite
+```
