@@ -122,6 +122,10 @@ permalink: /search.html
         <label for="congressionalDistrict">Congressional District</label>
       </div>
       <div>
+        <input type="checkbox" id="councilDistrict" name="location" value="councilDistrict" />
+        <label for="councilDistrict">Council District</label>
+      </div>
+      <div>
         <input type="checkbox" id="county" name="location" value="county" />
         <label for="county">County</label>
       </div>
