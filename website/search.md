@@ -42,7 +42,7 @@ permalink: /search.html
 
 <script>
 	function filterSearchURL(values) {
-		currentURL = ''.concat("/search.html?query=",...values);
+		currentURL = ''.concat("lafpc/search.html?query=",...values);
 		window.location.href = currentURL;
 
 		/* let i = 0;

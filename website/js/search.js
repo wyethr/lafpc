@@ -41,7 +41,7 @@
 
       searchResults.innerHTML = appendString;
     } else {
-      searchResults.innerHTML = 'No results found';
+      searchResults.innerHTML = '<p><center><em>--- No results found ---</em></center></p>';
     }
   }
 

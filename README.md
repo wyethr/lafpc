@@ -1,6 +1,6 @@
 # LAFPC
 
-https://www.eliascarter.ca/2021/09/11/customizing-jekyll-header-and-footer.html
+https://wyethr.github.io/lafpc/
 
 TOTAL NUMBER OF SOURCES: 23 [need to count]
 
