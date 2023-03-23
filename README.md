@@ -27,6 +27,10 @@ NEW POTENTIAL DATA POINTS:
 *** Violence 
     Schmitz et al. 2016 - Food insecurity among people who inject drugs
 
+LOCATIONS: 
+*** Coordinates 
+    LA Office of Finance - Active restaurant heat map (check other la office of finance)
+
 FORMAT FOR NEW SOURCES: 
 {
       "name": "",

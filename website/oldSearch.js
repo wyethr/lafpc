@@ -123,6 +123,7 @@ window.store = [
 	{
 		"name": "California Department of Food and Agriculture Certified Farmers Markets",
 		"locations": [
+			"address",
 			"county"
 		],
 		"url": "https://www.cdfa.ca.gov/is/docs/CurrentMrktsCounty.pdf",
@@ -181,6 +182,22 @@ window.store = [
 		]
 	}
 	,
+	{
+      "name": "Environmental Health Inspection Results -'Restaurant and Market Health Violations'",
+      "locations": [
+      	"address",
+      	"city"
+      ],
+      "url": "https://data.lacity.org/Community-Economic-Development/Restaurant-and-Market-Health-Violations/ckya-qgys",
+      "format": [
+      	"table"
+      ],
+      "dataPoints": [
+      	"farmersMarkets",
+      	"restaurants"
+      ]
+    }
+    ,
 	{
 		"name": "Equity Explorer Map",
 		"locations": [
@@ -316,7 +333,7 @@ window.store = [
     }
     ,
 	{
-		"name": "Los Angeles Food Resources",
+		"name": "Los Angeles Controller - 'Food Resources in California'",
 		"locations": [
 			"address",
 			"city",
@@ -332,6 +349,246 @@ window.store = [
 		],
 	}
 	,
+	{
+      "name": "Los Angeles Office of Finance - 'Active restaurant heat map'",
+      "locations": [
+      	"address",
+      	"city",
+      	"councilDistrict",
+      	"zip"
+      ],
+      "url": "https://data.lacity.org/A-Prosperous-City/Active-restaurant-heat-map/pwji-zbmi",
+      "format": [
+      	"map",
+      	"table"
+      ],
+      "dataPoints": [
+      	"restaurants"
+      ]
+    }
+    ,
+    {
+      "name": "Los Angeles Office of Finance -'Full Service Restaurants'",
+      "locations": [
+      	"address",
+      	"city",
+      	"councilDistrict",
+      	"zip"
+      ],
+      "url": "https://data.lacity.org/A-Prosperous-City/Full-Service-Restaurants/jqf8-b4z2",
+      "format": [
+      	"map"
+      ],
+      "dataPoints": [
+      	"restaurants"
+      ]
+    }
+    ,
+    {
+      "name": "Los Angeles Office of Finance - 'Full-Service Restaurants - Council District 3'",
+      "locations": [
+      	"address",
+      	"city",
+      	"councilDistrict",
+      	"zip"
+      ],
+      "url": "https://data.lacity.org/Administration-Finance/Full-Service-Restaurants-Council-District-3/nipp-xum2",
+      "format": [
+      	"table"
+      ],
+      "dataPoints": [
+      	"restaurants"
+      ]
+    }
+    ,
+    {
+      "name": "Los Angeles Office of Finance - 'Full-Service Restaurants - Council District 4'",
+      "locations": [
+      	"address",
+      	"city",
+      	"councilDistrict",
+      	"zip"
+      ],
+      "url": "https://data.lacity.org/Administration-Finance/Full-Service-Restaurants-Council-District-4/rzii-s58n",
+      "format": [
+      	"table"
+      ],
+      "dataPoints": [
+      	"restaurants"
+      ]
+    }
+    ,
+    {
+      "name": "Los Angeles Office of Finance - 'Full-Service Restaurants - Council District 5'",
+      "locations": [
+      	"address",
+      	"city",
+      	"councilDistrict",
+      	"zip"
+      ],
+      "url": "https://data.lacity.org/Administration-Finance/Full-Service-Restaurants-Council-District-5/tpzk-4fp9",
+      "format": [
+      	"table"
+      ],
+      "dataPoints": [
+      	"restaurants"
+      ]
+    }
+    ,
+	{
+      "name": "Los Angeles Office of Finance - 'Grocery Stores Listings'",
+      "locations": [
+      	"address",
+        "city",
+        "state",
+        "zip"
+      ],
+      "url": "https://data.lacity.org/Administration-Finance/Grocery-Stores/g986-7yf9",
+      "format": [
+      	"table"
+      ],
+      "dataPoints": [
+      	"groceryStores"
+      ]
+    }
+    ,
+    {
+      "name": "Los Angeles Office of Finance - 'LA Restaurant Map'",
+      "locations": [
+      	"address",
+      	"city",
+      	"councilDistrict",
+      	"zip"
+      ],
+      "url": "https://data.lacity.org/A-Prosperous-City/LA-Restaurant-Map/a4mr-3tn6",
+      "format": [
+      	"map",
+      	"table"
+      ],
+      "dataPoints": [
+      	"restaurants"
+      ]
+    }
+    ,
+    {
+      "name": "Los Angeles Office of Finance - 'Map of Restaurants'",
+      "locations": [
+      	"address",
+      	"city",
+      	"councilDistrict",
+      	"zip"
+      ],
+      "url": "https://data.lacity.org/A-Prosperous-City/Map-of-Restaurants/ycz4-j47g",
+      "format": [
+      	"map",
+      	"table"
+      ],
+      "dataPoints": [
+      	"restaurants"
+      ]
+    }
+    ,
+    {
+      "name": "Los Angeles Office of Finance - 'Map of Restaurants in LA'",
+      "locations": [
+      	"address",
+      	"city",
+      	"councilDistrict",
+      	"zip"
+      ],
+      "url": "https://data.lacity.org/Administration-Finance/Map-of-Restaurants-in-LA/y38a-yu7b",
+      "format": [
+      	"map",
+      	"table"
+      ],
+      "dataPoints": [
+      	"restaurants"
+      ]
+    }
+    ,
+    {
+      "name": "Los Angeles Office of Finance -'Restaurants Active LA'",
+      "locations": [
+      	"address",
+      	"city",
+      	"councilDistrict",
+      	"zip"
+      ],
+      "url": "https://data.lacity.org/A-Prosperous-City/Restaurants-Active-LA/6hb7-3458",
+      "format": [
+      	"map",
+      	"table"
+      ],
+      "dataPoints": [
+      	"restaurants"
+      ]
+    }
+    ,
+    {
+      "name": "Los Angeles Office of Finance - 'Restaurants in Boyle Heights Vicinity'",
+      "locations": [
+      	"address",
+      	"councilDistrict",
+      	"zip"
+      ],
+      "url": "https://data.lacity.org/A-Prosperous-City/Restaurants-in-Boyle-Heights-Vicinity/khjs-ngj4",
+      "format": [
+      	"map",
+      	"table"
+      ],
+      "dataPoints": [
+      	"restaurants"
+      ]
+    }
+    ,
+    {
+      "name": "Los Angeles Office of Finance - 'Restaurants in LA'",
+      "locations": [
+      	"address",
+      	"city",
+      	"zip"
+      ],
+      "url": "https://data.lacity.org/Administration-Finance/Restaurants-in-LA/nqb5-fsih",
+      "format": [
+      	"table"
+      ],
+      "dataPoints": [
+      	"restaurants"
+      ]
+    }
+    ,
+    {
+      "name": "Los Angeles Office of Finance - 'Restaurants in LA (Map)'",
+      "locations": [
+      	"city"
+      ],
+      "url": "https://data.lacity.org/A-Prosperous-City/Restaurants-in-LA/ieer-tbdq",
+      "format": [
+      	"map"
+      ],
+      "dataPoints": [
+      	"restaurants"
+      ]
+    }
+    ,
+    {
+      "name": "Los Angeles Office of Finance - 'Restaurants Heat Map'",
+      "locations": [
+      	"address",
+      	"city",
+      	"councilDistrict",
+      	"zip"
+      ],
+      "url": "https://data.lacity.org/Community-Economic-Development/Active-Restaurants-Heat-Map/gtcn-kik7",
+      "format": [
+      	"table",
+      	"map"
+      ],
+      "dataPoints": [
+      	"restaurants"
+      ]
+    }
+    ,
 	{
       "name": "Martinez et al. 2017 - 'Food insecurity in California's public university system: What are the risk factors?'",
       "locations": [
