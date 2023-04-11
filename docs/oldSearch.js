@@ -266,6 +266,88 @@ window.store = [
 	}
 	,
 	{
+      "name": "Food Stamps Now - 'Fast Food Restaurants that accept EBT Food Stamps'",
+      "locations": [
+      	"state"
+      ],
+      "url": "https://foodstampsnow.com/fast-food-restaurants-that-accept-ebt-food-stamps/",
+      "format": [
+      	"table"
+      ],
+      "dataPoints": [
+      	"restaurants",
+      	"SNAP"
+      ]
+    }
+    ,
+	{
+      "name": "Food Stamps Now - 'List of EBT Accepted Stores in LA'",
+      "locations": [
+      	"address",
+      	"city",
+      	"state",
+      	"zip"
+      ],
+      "url": "https://foodstampsnow.com/wp-content/uploads/2017/12/List-of-EBT-accepted-Stores-in-LA-Sheet1.pdf",
+      "format": [
+      	"table"
+      ],
+      "dataPoints": [
+      	"SNAP"
+      ]
+    }
+    ,
+    {
+      "name": "Food Stamps Now - 'List of Gas Stations that Accept EBT in Los Angeles'",
+      "locations": [
+      	"address",
+      	"city",
+      	"state",
+      	"zip"
+      ],
+      "url": "https://foodstampsnow.com/list-gas-stations-accept-ebt-los-angeles/",
+      "format": [
+      	"table"
+      ],
+      "dataPoints": [
+      	"SNAP"
+      ]
+    }
+    ,
+    {
+      "name": "Food Stamps Now - 'List of Grocery Stores that accept Food Stamps'",
+      "locations": [
+      	"state"
+      ],
+      "url": "https://foodstampsnow.com/list-grocery-stores-accept-food-stamps/",
+      "format": [
+      	"table"
+      ],
+      "dataPoints": [
+      	"groceryStores",
+      	"SNAP"
+      ]
+    }
+    ,
+    {
+      "name": "Food Stamps Now Search Tool",
+      "locations": [
+      	"city",
+      	"state",
+      	"zip"
+      ],
+      "url": "https://ebtstores.foodstampsnow.com/",
+      "format": [
+      	"map"
+      ],
+      "dataPoints": [
+      	"farmersMarkets",
+      	"groceryStores",
+      	"SNAP"
+      ]
+    }
+    ,
+	{
       "name": "Furness et al. 2007 - 'Prevalence and predictors of food insecurity among low-income households in Los Angeles County'",
       "locations": [
       	"county"
@@ -349,6 +431,40 @@ window.store = [
 		],
 	}
 	,
+	{
+      "name": "Los Angeles Food Policy Council - 'Fresh Ideas for CalFresh'",
+      "locations": [
+      	"county",
+      	"servicePlanningArea",
+      	"supervisorialDistrict"
+      ],
+      "url": "https://static1.squarespace.com/static/5bc50618ab1a624d324ecd81/t/62abbefa3e225d40348ca7ce/1655422751243/FreshIdeasforCalFresh.pdf",
+      "format": [
+      	"study",
+      	"table"
+      ],
+      "dataPoints": [
+      	"COVID",
+      	"income/poverty",
+      	"language",
+      	"recommendations",
+      	"SNAP"
+      ]
+    }
+    ,
+    {
+      "name": "Los Angeles Food Policy Council - 'Good Food for All Agenda'",
+      "locations": [
+      ],
+      "url": "https://static1.squarespace.com/static/5bc50618ab1a624d324ecd81/t/5be5fda240ec9a789e87e811/1541799360838/GoodFoodforAllAgenda2018.pdf",
+      "format": [
+      	"study"
+      ],
+      "dataPoints": [
+      	"recommendations"
+      ]
+    }
+    ,
 	{
       "name": "Los Angeles Office of Finance - 'Active restaurant heat map'",
       "locations": [

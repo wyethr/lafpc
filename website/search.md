@@ -22,11 +22,11 @@ permalink: /search.html
 <center> 
   <h2>About the Project</h2>
 
-  This directory was created in parternship with the Los Angeles Food Policy Council. Currently synthesizing <span id="length"></span> sources and datasets, it was made to help researchers and policymakers better understand food insecurity in the Los Angeles area.
+  This research directory was created in parternship with the Los Angeles Food Policy Council. Currently synthesizing <span id="length"></span> sources and datasets, it was made to help researchers and policymakers better understand food insecurity in the Los Angeles area.
 
   <p> </p>
 
-  <i>Found some published research or data you think should be included? Help us improve our database by sending the link to your-email@example.com.</i>
+  <i>Found some published research or data you think should be included? Help us improve our database by sending the link to {{ site.email }}.</i>
 
 </center>
 
@@ -244,6 +244,10 @@ permalink: /search.html
       <div>
         <input type="checkbox" id="race/ethnicity" name="dataPoints" value="race/ethnicity" />
         <label for="race/ethnicity">Race/Ethnicity</label>
+      </div>
+      <div>
+        <input type="checkbox" id="recommendations" name="dataPoints" value="recommendations" />
+        <label for="recommendations">Policy Recommendations</label>
       </div>
       <div>
         <input type="checkbox" id="restaurants" name="dataPoints" value="restaurants" />

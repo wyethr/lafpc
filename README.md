@@ -30,6 +30,8 @@ NEW POTENTIAL DATA POINTS:
 LOCATIONS: 
 *** Coordinates 
     LA Office of Finance - Active restaurant heat map (check other la office of finance)
+*** Gas Stations
+    List of Gas Stations that Accept EBT in Los Angeles
 
 FORMAT FOR NEW SOURCES: 
 {
