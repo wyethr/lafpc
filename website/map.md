@@ -23,17 +23,17 @@ permalink: /map
 
   <p> </p>
 
-  <div id="map"></div>
+  <div id="geoMap"></div>
 
 </center>
 
 <script>
-  var map = L.map('map').setView([34, -118], 9);
+  var geoMap = L.map('geoMap').setView([34, -118], 9);
 
   L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom: 19,
     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
-  }).addTo(map);
+  }).addTo(geoMap);
 
 
   var groceryStyle = {
@@ -44,11 +44,11 @@ permalink: /map
     // add GeoJSON layer to the map once the file is loaded
     L.geoJson(data, {
       style: groceryStyle
-    }).addTo(map);
+    }).addTo(geoMap);
   });
 
   fetch("Farmers_Markets.geojson").then(res => res.json()).then(data => {
     // add GeoJSON layer to the map once the file is loaded
-    L.geoJson(data).addTo(map);
+    L.geoJson(data).addTo(geoMap);
   });
 </script>
