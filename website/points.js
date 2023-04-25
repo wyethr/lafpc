@@ -1,4 +1,4 @@
-var map = 
+var points = 
 
 {
    "type": "FeatureCollection",
@@ -29816,3 +29816,6 @@ var map =
   }
 ]
 };
+
+var geojsonLayer = L.geoJSON(points);
+geojsonLayer.addTo(map);
