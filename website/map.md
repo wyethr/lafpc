@@ -32,6 +32,12 @@ permalink: /map
 <script>
   var map = L.map('map');
 
-  var geojsonLayer = L.geoJSON(LA_County_with_Points);
-  geojsonLayer.addTo(map);
+  var bordersLayer = L.geoJSON(LA_County_Borders);
+  bordersLayer.addTo(map);
+
+  var groceryLayer = L.geoJSON(Grocery_Stores);
+  groceryLayer.addTo(map);
+
+  var farmersLayer = L.geoJSON(Farmers_Markets);
+  farmersLayer.addTo(map);
 </script>
