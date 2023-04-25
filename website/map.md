@@ -16,8 +16,6 @@ permalink: /map
      crossorigin=""></script>
 </head>
 
-<script src="LA_County_with_Points.js"></script>
-
 <center> 
   <h2>About the Map</h2>
 
