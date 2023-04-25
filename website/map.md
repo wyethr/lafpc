@@ -30,14 +30,20 @@ permalink: /map
 </center>
 
 <script>
-  var map = L.map('map');
+  var map = L.map('map').setView([34, -118], 9);
 
-  var bordersLayer = L.geoJSON(LA_County_Borders);
-  bordersLayer.addTo(map);
+  L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    maxZoom: 19,
+    attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+  }).addTo(map);
 
-  var groceryLayer = L.geoJSON(Grocery_Stores);
-  groceryLayer.addTo(map);
+  fetch("Grocery_Stores.geojson").then(res => res.json()).then(data => {
+    // add GeoJSON layer to the map once the file is loaded
+    L.geoJson(data).addTo(map);
+  });
 
-  var farmersLayer = L.geoJSON(Farmers_Markets);
-  farmersLayer.addTo(map);
+  fetch("Farmers_Markets.geojson").then(res => res.json()).then(data => {
+    // add GeoJSON layer to the map once the file is loaded
+    L.geoJson(data).addTo(map);
+  });
 </script>
