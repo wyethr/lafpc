@@ -16,11 +16,7 @@ permalink: /map
      crossorigin=""></script>
 </head>
 
-<script src="points.js"></script>
-
-<script>
-var geojsonLayer = L.geoJSON(points);
-geojsonLayer.addTo(map);</script>
+<script src="LA_County_with_Points.js"></script>
 
 <center> 
   <h2>About the Map</h2>
@@ -32,3 +28,10 @@ geojsonLayer.addTo(map);</script>
   <div id="map"></div>
 
 </center>
+
+<script>
+  var map = L.map('map');
+
+  var geojsonLayer = L.geoJSON(LA_County_with_Points);
+  geojsonLayer.addTo(map);
+</script>
