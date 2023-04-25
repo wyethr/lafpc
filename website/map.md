@@ -35,9 +35,16 @@ permalink: /map
     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
   }).addTo(map);
 
+
+  var groceryStyle = {
+    "color": "#555555"
+  };
+
   fetch("Grocery_Stores.geojson").then(res => res.json()).then(data => {
     // add GeoJSON layer to the map once the file is loaded
-    L.geoJson(data).addTo(map);
+    L.geoJson(data, {
+      style: groceryStyle
+    }).addTo(map);
   });
 
   fetch("Farmers_Markets.geojson").then(res => res.json()).then(data => {
