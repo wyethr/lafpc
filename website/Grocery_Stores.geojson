@@ -5675,7 +5675,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 118.265152,33.94505692 ]
+       "coordinates":  [ -118.265152,33.94505692 ]
     },
     "properties": {
     "LOCATION ACCOUNT #":"0003298245-0001-2",
