@@ -4,6 +4,18 @@ title: Visualizing Food Access
 permalink: /map
 ---
 
+<head>
+  <link rel="stylesheet" href="style.css">
+  
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"
+     integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI="
+     crossorigin=""/>
+
+  <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"
+     integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM="
+     crossorigin=""></script>
+</head>
+
 <script src="points.js"></script>
 
 <center> 
@@ -13,8 +25,6 @@ permalink: /map
 
   <p> </p>
 
-  <script>
-
-  </script>
+  <div id="map"></div>
 
 </center>
