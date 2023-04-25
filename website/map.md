@@ -18,6 +18,10 @@ permalink: /map
 
 <script src="points.js"></script>
 
+<script>
+var geojsonLayer = L.geoJSON(points);
+geojsonLayer.addTo(map);</script>
+
 <center> 
   <h2>About the Map</h2>
 

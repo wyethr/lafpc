@@ -28,6 +28,9 @@ var points =
     },
     "style": {
         "fill":"purple"
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -52,6 +55,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"1/1/16",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     },
     "style": {
         "fill":"purple"
@@ -82,6 +88,9 @@ var points =
     },
     "style": {
         "fill":"purple"
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -106,6 +115,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"1/1/15",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     },
     "style": {
         "fill":"purple"
@@ -136,6 +148,9 @@ var points =
     },
     "style": {
         "fill":"purple"
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -160,6 +175,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"1/13/16",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     },
     "style": {
         "fill":"purple"
@@ -190,6 +208,9 @@ var points =
     },
     "style": {
         "fill":"purple"
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -214,6 +235,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"2/1/60",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     },
     "style": {
         "fill":"purple"
@@ -244,6 +268,9 @@ var points =
     },
     "style": {
         "fill":"purple"
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -268,6 +295,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"7/31/04",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     },
     "style": {
         "fill":"purple"
@@ -298,6 +328,9 @@ var points =
     },
     "style": {
         "fill":"purple"
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -322,6 +355,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"1/15/17",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     },
     "style": {
         "fill":"purple"
@@ -352,6 +388,9 @@ var points =
     },
     "style": {
         "fill":"purple"
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -376,6 +415,9 @@ var points =
     "COUNCIL DISTRICT":15,
     "LOCATION START DATE":"1/1/01",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     },
     "style": {
         "fill":"purple"
@@ -406,6 +448,9 @@ var points =
     },
     "style": {
         "fill":"purple"
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -430,6 +475,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"1/1/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     },
     "style": {
         "fill":"purple"
@@ -460,6 +508,9 @@ var points =
     },
     "style": {
         "fill":"purple"
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -484,6 +535,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"5/20/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     },
     "style": {
         "fill":"purple"
@@ -514,6 +568,9 @@ var points =
     },
     "style": {
         "fill":"purple"
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -538,6 +595,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"7/10/19",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     },
     "style": {
         "fill":"purple"
@@ -568,6 +628,9 @@ var points =
     },
     "style": {
         "fill":"purple"
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -592,6 +655,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"11/10/16",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     },
     "style": {
         "fill":"purple"
@@ -622,6 +688,9 @@ var points =
     },
     "style": {
         "fill":"purple"
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -646,6 +715,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"7/1/19",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     },
     "style": {
         "fill":"purple"
@@ -676,6 +748,9 @@ var points =
     },
     "style": {
         "fill":"purple"
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -700,6 +775,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"7/4/22",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     },
     "style": {
         "fill":"purple"
@@ -730,6 +808,9 @@ var points =
     },
     "style": {
         "fill":"purple"
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -754,6 +835,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"3/1/16",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     },
     "style": {
         "fill":"purple"
@@ -784,6 +868,9 @@ var points =
     },
     "style": {
         "fill":"purple"
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -808,6 +895,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"8/1/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     },
     "style": {
         "fill":"purple"
@@ -838,6 +928,9 @@ var points =
     },
     "style": {
         "fill":"purple"
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -862,6 +955,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"8/15/18",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     },
     "style": {
         "fill":"purple"
@@ -892,6 +988,9 @@ var points =
     },
     "style": {
         "fill":"purple"
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -916,6 +1015,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"6/26/17",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     },
     "style": {
         "fill":"purple"
@@ -946,6 +1048,9 @@ var points =
     },
     "style": {
         "fill":"purple"
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -970,6 +1075,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"3/28/16",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     },
     "style": {
         "fill":"purple"
@@ -1000,6 +1108,9 @@ var points =
     },
     "style": {
         "fill":"purple"
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -1024,6 +1135,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"4/20/92",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     },
     "style": {
         "fill":"purple"
@@ -1054,6 +1168,9 @@ var points =
     },
     "style": {
         "fill":"purple"
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -1078,6 +1195,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"6/1/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     },
     "style": {
         "fill":"purple"
@@ -1108,6 +1228,9 @@ var points =
     },
     "style": {
         "fill":"purple"
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -1132,6 +1255,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"4/9/19",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     },
     "style": {
         "fill":"purple"
@@ -1162,6 +1288,9 @@ var points =
     },
     "style": {
         "fill":"purple"
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -1186,6 +1315,9 @@ var points =
     "COUNCIL DISTRICT":11,
     "LOCATION START DATE":"5/1/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     },
     "style": {
         "fill":"purple"
@@ -1216,6 +1348,9 @@ var points =
     },
     "style": {
         "fill":"purple"
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -1240,6 +1375,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"8/10/15",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     },
     "style": {
         "fill":"purple"
@@ -1270,6 +1408,9 @@ var points =
     },
     "style": {
         "fill":"purple"
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -1294,6 +1435,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"8/15/14",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     },
     "style": {
         "fill":"purple"
@@ -1324,6 +1468,9 @@ var points =
     },
     "style": {
         "fill":"purple"
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -1348,6 +1495,12 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"2/14/18",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -1372,6 +1525,12 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"12/12/97",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -1396,6 +1555,12 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"4/29/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -1420,6 +1585,12 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"6/27/03",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -1444,6 +1615,12 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"4/15/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -1468,6 +1645,12 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"7/28/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -1492,6 +1675,12 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"1/2/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -1516,6 +1705,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"4/3/15",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -1540,6 +1732,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"7/1/08",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -1564,6 +1759,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"9/1/19",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -1588,6 +1786,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"7/11/14",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -1612,6 +1813,9 @@ var points =
     "COUNCIL DISTRICT":11,
     "LOCATION START DATE":"6/28/13",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -1636,6 +1840,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"9/1/19",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -1660,6 +1867,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"8/15/17",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -1684,6 +1894,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"8/1/22",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -1708,6 +1921,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"7/1/16",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -1732,6 +1948,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"8/14/17",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -1756,6 +1975,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"6/23/22",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -1780,6 +2002,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"6/16/10",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -1804,6 +2029,9 @@ var points =
     "COUNCIL DISTRICT":4,
     "LOCATION START DATE":"11/29/84",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -1828,6 +2056,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"11/16/17",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -1852,6 +2083,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"12/1/18",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -1876,6 +2110,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"8/10/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -1900,6 +2137,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"10/7/15",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -1924,6 +2164,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"7/28/17",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -1948,6 +2191,9 @@ var points =
     "COUNCIL DISTRICT":0,
     "LOCATION START DATE":"1/1/19",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -1972,6 +2218,9 @@ var points =
     "COUNCIL DISTRICT":0,
     "LOCATION START DATE":"4/30/22",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -1996,6 +2245,9 @@ var points =
     "COUNCIL DISTRICT":0,
     "LOCATION START DATE":"1/6/16",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -2020,6 +2272,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"4/2/03",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -2044,6 +2299,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"9/1/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -2068,6 +2326,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"8/20/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -2092,6 +2353,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"2/26/16",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -2116,6 +2380,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"8/12/22",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -2140,6 +2407,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"3/1/19",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -2164,6 +2434,9 @@ var points =
     "COUNCIL DISTRICT":4,
     "LOCATION START DATE":"8/8/01",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -2188,6 +2461,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"7/6/09",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -2212,6 +2488,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"1/1/53",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -2236,6 +2515,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"5/27/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -2260,6 +2542,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"4/15/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -2284,6 +2569,9 @@ var points =
     "COUNCIL DISTRICT":11,
     "LOCATION START DATE":"9/1/95",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -2308,6 +2596,9 @@ var points =
     "COUNCIL DISTRICT":0,
     "LOCATION START DATE":"8/1/18",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -2332,6 +2623,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"1/1/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -2356,6 +2650,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"9/1/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -2380,6 +2677,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"12/3/15",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -2404,6 +2704,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"1/19/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -2428,6 +2731,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"1/1/16",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -2452,6 +2758,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"3/23/16",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -2476,6 +2785,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"12/5/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -2500,6 +2812,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"6/26/19",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -2524,6 +2839,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"1/1/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -2548,6 +2866,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"7/18/22",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -2572,6 +2893,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"6/1/22",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -2596,6 +2920,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"8/5/09",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -2620,6 +2947,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"8/20/16",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -2644,6 +2974,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"2/12/10",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -2668,6 +3001,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"11/20/01",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -2692,6 +3028,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"9/6/19",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -2716,6 +3055,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"3/23/10",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -2740,6 +3082,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"12/28/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -2764,6 +3109,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"1/1/09",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -2788,6 +3136,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"6/28/95",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -2812,6 +3163,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"7/1/19",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -2836,6 +3190,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"9/18/07",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -2860,6 +3217,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"5/9/08",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -2884,6 +3244,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"5/31/12",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -2908,6 +3271,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"1/13/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -2932,6 +3298,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"1/4/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -2956,6 +3325,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"12/1/12",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -2980,6 +3352,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"4/30/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -3004,6 +3379,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"8/17/18",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -3028,6 +3406,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"2/23/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -3052,6 +3433,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"2/3/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -3076,6 +3460,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"3/1/12",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -3100,6 +3487,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"12/1/88",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -3124,6 +3514,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"5/7/19",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -3148,6 +3541,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"6/13/03",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -3172,6 +3568,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"2/1/83",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -3196,6 +3595,9 @@ var points =
     "COUNCIL DISTRICT":11,
     "LOCATION START DATE":"10/1/18",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -3220,6 +3622,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"3/10/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -3244,6 +3649,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"5/15/12",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -3268,6 +3676,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"1/1/11",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -3292,6 +3703,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"7/25/16",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -3316,6 +3730,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"11/1/04",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -3340,6 +3757,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"1/2/14",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -3364,6 +3784,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"2/2/22",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -3388,6 +3811,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"6/7/84",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -3412,6 +3838,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"11/25/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -3436,6 +3865,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"9/1/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -3460,6 +3892,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"5/1/12",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -3484,6 +3919,9 @@ var points =
     "COUNCIL DISTRICT":15,
     "LOCATION START DATE":"3/23/06",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -3508,6 +3946,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"9/11/96",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -3532,6 +3973,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"11/5/12",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -3556,6 +4000,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"8/16/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -3580,6 +4027,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"4/17/09",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -3604,6 +4054,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"10/1/02",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -3628,6 +4081,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"6/19/13",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -3652,6 +4108,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"10/1/96",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -3676,6 +4135,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"7/1/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -3700,6 +4162,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"11/1/19",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -3724,6 +4189,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"7/28/01",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -3748,6 +4216,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"6/4/86",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -3772,6 +4243,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"4/20/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -3796,6 +4270,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"11/1/10",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -3820,6 +4297,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"5/3/12",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -3844,6 +4324,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"1/1/94",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -3868,6 +4351,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"4/1/84",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -3892,6 +4378,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"10/9/98",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -3916,6 +4405,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"10/1/19",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -3940,6 +4432,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"4/1/64",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -3964,6 +4459,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"4/27/17",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -3988,6 +4486,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"9/10/14",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -4012,6 +4513,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"5/21/03",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -4036,6 +4540,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"6/9/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -4060,6 +4567,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"6/22/17",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -4084,6 +4594,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"1/2/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -4108,6 +4621,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"12/15/16",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -4132,6 +4648,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"2/1/08",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -4156,6 +4675,9 @@ var points =
     "COUNCIL DISTRICT":0,
     "LOCATION START DATE":"11/1/19",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -4180,6 +4702,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"8/2/86",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -4204,6 +4729,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"6/1/17",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -4228,6 +4756,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"10/1/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -4252,6 +4783,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"4/2/01",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -4276,6 +4810,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"5/1/02",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -4300,6 +4837,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"7/2/13",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -4324,6 +4864,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"4/17/09",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -4348,6 +4891,9 @@ var points =
     "COUNCIL DISTRICT":15,
     "LOCATION START DATE":"9/1/17",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -4372,6 +4918,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"8/1/19",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -4396,6 +4945,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"4/1/96",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -4420,6 +4972,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"4/20/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -4444,6 +4999,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"12/12/01",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -4468,6 +5026,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"11/3/17",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -4492,6 +5053,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"1/15/04",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -4516,6 +5080,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"11/12/19",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -4540,6 +5107,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"11/1/16",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -4564,6 +5134,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"9/15/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -4588,6 +5161,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"1/19/10",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -4612,6 +5188,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"11/19/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -4636,6 +5215,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"8/23/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -4660,6 +5242,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"10/19/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -4684,6 +5269,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"7/1/04",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -4708,6 +5296,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"9/1/91",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -4732,6 +5323,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"6/17/86",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -4756,6 +5350,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"8/29/02",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -4780,6 +5377,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"8/1/08",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -4804,6 +5404,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"9/23/19",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -4828,6 +5431,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"11/1/15",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -4852,6 +5458,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"12/12/91",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -4876,6 +5485,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"1/1/13",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -4900,6 +5512,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"6/1/12",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -4924,6 +5539,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"5/1/93",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -4948,6 +5566,9 @@ var points =
     "COUNCIL DISTRICT":15,
     "LOCATION START DATE":"12/1/84",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -4972,6 +5593,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"5/15/15",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -4996,6 +5620,9 @@ var points =
     "COUNCIL DISTRICT":0,
     "LOCATION START DATE":"11/1/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -5020,6 +5647,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"3/9/15",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -5044,6 +5674,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"10/1/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -5068,6 +5701,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"7/20/06",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -5092,6 +5728,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"7/1/19",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -5116,6 +5755,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"9/1/14",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -5140,6 +5782,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"9/21/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -5164,6 +5809,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"5/22/89",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -5188,6 +5836,9 @@ var points =
     "COUNCIL DISTRICT":11,
     "LOCATION START DATE":"9/9/99",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -5212,6 +5863,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"1/1/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -5236,6 +5890,9 @@ var points =
     "COUNCIL DISTRICT":0,
     "LOCATION START DATE":"10/1/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -5260,6 +5917,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"1/21/03",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -5284,6 +5944,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"7/31/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -5308,6 +5971,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"6/3/05",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -5332,6 +5998,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"9/10/19",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -5356,6 +6025,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"2/16/22",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -5380,6 +6052,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"3/20/00",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -5404,6 +6079,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"2/13/08",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -5428,6 +6106,9 @@ var points =
     "COUNCIL DISTRICT":11,
     "LOCATION START DATE":"6/19/17",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -5452,6 +6133,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"8/15/07",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -5476,6 +6160,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"10/1/92",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -5500,6 +6187,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"12/3/08",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -5524,6 +6214,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"1/1/85",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -5548,6 +6241,9 @@ var points =
     "COUNCIL DISTRICT":15,
     "LOCATION START DATE":"1/1/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -5572,6 +6268,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"5/1/90",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -5596,6 +6295,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"6/1/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -5620,6 +6322,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"1/1/22",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -5644,6 +6349,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"11/20/07",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -5668,6 +6376,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"1/1/04",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -5692,6 +6403,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"4/1/07",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -5716,6 +6430,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"5/27/14",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -5740,6 +6457,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"5/18/84",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -5764,6 +6484,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"1/14/98",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -5788,6 +6511,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"1/1/09",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -5812,6 +6538,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"5/21/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -5836,6 +6565,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"1/1/03",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -5860,6 +6592,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"6/8/15",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -5884,6 +6619,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"5/13/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -5908,6 +6646,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"11/2/08",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -5932,6 +6673,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"4/1/92",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -5956,6 +6700,9 @@ var points =
     "COUNCIL DISTRICT":11,
     "LOCATION START DATE":"12/3/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -5980,6 +6727,9 @@ var points =
     "COUNCIL DISTRICT":0,
     "LOCATION START DATE":"9/27/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -6004,6 +6754,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"3/25/02",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -6028,6 +6781,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"12/10/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -6052,6 +6808,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"8/5/13",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -6076,6 +6835,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"12/1/96",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -6100,6 +6862,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"3/15/93",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -6124,6 +6889,9 @@ var points =
     "COUNCIL DISTRICT":11,
     "LOCATION START DATE":"1/15/17",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -6148,6 +6916,9 @@ var points =
     "COUNCIL DISTRICT":11,
     "LOCATION START DATE":"8/5/97",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -6172,6 +6943,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"1/20/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -6196,6 +6970,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"3/28/18",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -6220,6 +6997,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"8/5/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -6244,6 +7024,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"10/15/19",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -6268,6 +7051,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"9/8/16",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -6292,6 +7078,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"1/4/05",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -6316,6 +7105,9 @@ var points =
     "COUNCIL DISTRICT":11,
     "LOCATION START DATE":"11/1/76",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -6340,6 +7132,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"10/22/19",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -6364,6 +7159,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"3/1/16",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -6388,6 +7186,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"1/13/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -6412,6 +7213,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"4/10/97",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -6436,6 +7240,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"3/1/22",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -6460,6 +7267,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"7/1/10",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -6484,6 +7294,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"3/18/10",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -6508,6 +7321,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"1/15/03",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -6532,6 +7348,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"11/4/15",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -6556,6 +7375,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"5/1/11",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -6580,6 +7402,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"3/3/15",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -6604,6 +7429,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"11/17/97",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -6628,6 +7456,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"10/6/09",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -6652,6 +7483,9 @@ var points =
     "COUNCIL DISTRICT":0,
     "LOCATION START DATE":"1/1/11",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -6676,6 +7510,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"7/1/13",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -6700,6 +7537,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"12/20/07",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -6724,6 +7564,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"6/18/15",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -6748,6 +7591,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"9/28/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -6772,6 +7618,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"3/1/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -6796,6 +7645,9 @@ var points =
     "COUNCIL DISTRICT":0,
     "LOCATION START DATE":"2/20/12",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -6820,6 +7672,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"12/31/19",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -6844,6 +7699,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"1/1/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -6868,6 +7726,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"3/10/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -6892,6 +7753,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"1/13/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -6916,6 +7780,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"1/1/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -6940,6 +7807,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"3/3/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -6964,6 +7834,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"12/10/16",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -6988,6 +7861,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"11/21/13",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -7012,6 +7888,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"11/20/01",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -7036,6 +7915,9 @@ var points =
     "COUNCIL DISTRICT":0,
     "LOCATION START DATE":"2/1/06",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -7060,6 +7942,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"9/1/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -7084,6 +7969,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"9/8/99",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -7108,6 +7996,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"12/18/19",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -7132,6 +8023,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"6/29/10",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -7156,6 +8050,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"11/22/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -7180,6 +8077,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"1/1/14",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -7204,6 +8104,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"2/25/00",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -7228,6 +8131,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"1/10/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -7252,6 +8158,9 @@ var points =
     "COUNCIL DISTRICT":0,
     "LOCATION START DATE":"5/4/12",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -7276,6 +8185,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"9/1/04",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -7300,6 +8212,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"7/30/03",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -7324,6 +8239,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"4/1/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -7348,6 +8266,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"2/12/22",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -7372,6 +8293,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"8/10/96",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -7396,6 +8320,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"3/1/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -7420,6 +8347,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"1/1/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -7444,6 +8374,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"1/1/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -7468,6 +8401,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"4/24/12",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -7492,6 +8428,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"1/1/13",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -7516,6 +8455,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"11/21/00",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -7540,6 +8482,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"12/17/19",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -7564,6 +8509,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"10/25/10",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -7588,6 +8536,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"11/1/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -7612,6 +8563,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"12/19/11",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -7636,6 +8590,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"9/25/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -7660,6 +8617,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"4/1/10",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -7684,6 +8644,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"2/1/66",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -7708,6 +8671,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"10/25/00",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -7732,6 +8698,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"11/1/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -7756,6 +8725,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"9/11/17",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -7780,6 +8752,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"3/11/14",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -7804,6 +8779,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"1/1/19",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -7828,6 +8806,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"8/21/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -7852,6 +8833,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"1/13/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -7876,6 +8860,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"10/1/19",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -7900,6 +8887,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"1/1/11",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -7924,6 +8914,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"3/20/15",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -7948,6 +8941,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"1/25/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -7972,6 +8968,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"1/2/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -7996,6 +8995,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"4/20/07",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -8020,6 +9022,9 @@ var points =
     "COUNCIL DISTRICT":0,
     "LOCATION START DATE":"1/15/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -8044,6 +9049,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"1/3/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -8068,6 +9076,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"6/8/98",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -8092,6 +9103,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"6/1/04",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -8116,6 +9130,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"8/26/13",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -8140,6 +9157,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"5/21/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -8164,6 +9184,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"7/13/12",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -8188,6 +9211,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"6/1/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -8212,6 +9238,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"3/5/12",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -8236,6 +9265,9 @@ var points =
     "COUNCIL DISTRICT":0,
     "LOCATION START DATE":"4/15/04",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -8260,6 +9292,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"5/1/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -8284,6 +9319,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"1/17/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -8308,6 +9346,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"8/1/68",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -8332,6 +9373,9 @@ var points =
     "COUNCIL DISTRICT":15,
     "LOCATION START DATE":"1/26/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -8356,6 +9400,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"6/23/98",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -8380,6 +9427,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"8/18/81",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -8404,6 +9454,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"6/9/10",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -8428,6 +9481,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"10/1/02",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -8452,6 +9508,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"8/15/08",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -8476,6 +9535,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"10/13/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -8500,6 +9562,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"2/15/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -8524,6 +9589,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"1/26/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -8548,6 +9616,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"12/10/03",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -8572,6 +9643,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"4/12/16",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -8596,6 +9670,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"8/12/13",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -8620,6 +9697,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"1/8/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -8644,6 +9724,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"10/1/00",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -8668,6 +9751,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"5/14/19",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -8692,6 +9778,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"2/1/72",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -8716,6 +9805,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"7/23/08",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -8740,6 +9832,9 @@ var points =
     "COUNCIL DISTRICT":11,
     "LOCATION START DATE":"7/20/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -8764,6 +9859,9 @@ var points =
     "COUNCIL DISTRICT":11,
     "LOCATION START DATE":"1/26/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -8788,6 +9886,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"1/10/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -8812,6 +9913,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"2/1/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -8836,6 +9940,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"7/30/14",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -8860,6 +9967,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"7/1/00",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -8884,6 +9994,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"1/1/06",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -8908,6 +10021,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"11/15/17",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -8932,6 +10048,9 @@ var points =
     "COUNCIL DISTRICT":0,
     "LOCATION START DATE":"2/1/22",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -8956,6 +10075,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"4/13/11",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -8980,6 +10102,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"8/15/95",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -9004,6 +10129,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"6/15/87",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -9028,6 +10156,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"9/27/13",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -9052,6 +10183,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"8/1/07",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -9076,6 +10210,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"3/14/14",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -9100,6 +10237,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"1/13/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -9124,6 +10264,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"9/1/92",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -9148,6 +10291,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"4/17/09",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -9172,6 +10318,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"4/17/09",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -9196,6 +10345,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"6/17/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -9220,6 +10372,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"5/18/09",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -9244,6 +10399,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"9/1/69",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -9268,6 +10426,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"10/1/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -9292,6 +10453,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"5/5/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -9316,6 +10480,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"8/24/06",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -9340,6 +10507,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"2/1/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -9364,6 +10534,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"12/10/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -9388,6 +10561,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"12/10/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -9412,6 +10588,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"7/1/11",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -9436,6 +10615,9 @@ var points =
     "COUNCIL DISTRICT":0,
     "LOCATION START DATE":"12/5/19",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -9460,6 +10642,9 @@ var points =
     "COUNCIL DISTRICT":11,
     "LOCATION START DATE":"3/1/16",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -9484,6 +10669,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"3/14/03",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -9508,6 +10696,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"5/23/94",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -9532,6 +10723,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"3/16/00",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -9556,6 +10750,9 @@ var points =
     "COUNCIL DISTRICT":11,
     "LOCATION START DATE":"3/17/11",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -9580,6 +10777,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"5/1/17",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -9604,6 +10804,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"9/1/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -9628,6 +10831,9 @@ var points =
     "COUNCIL DISTRICT":15,
     "LOCATION START DATE":"2/24/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -9652,6 +10858,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"10/22/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -9676,6 +10885,9 @@ var points =
     "COUNCIL DISTRICT":11,
     "LOCATION START DATE":"7/14/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -9700,6 +10912,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"2/5/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -9724,6 +10939,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"1/1/95",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -9748,6 +10966,9 @@ var points =
     "COUNCIL DISTRICT":0,
     "LOCATION START DATE":"12/29/17",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -9772,6 +10993,9 @@ var points =
     "COUNCIL DISTRICT":15,
     "LOCATION START DATE":"2/16/93",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -9796,6 +11020,9 @@ var points =
     "COUNCIL DISTRICT":15,
     "LOCATION START DATE":"9/13/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -9820,6 +11047,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"1/1/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -9844,6 +11074,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"1/1/53",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -9868,6 +11101,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"11/6/19",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -9892,6 +11128,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"1/1/85",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -9916,6 +11155,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"1/6/14",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -9940,6 +11182,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"1/1/98",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -9964,6 +11209,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"7/1/98",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -9988,6 +11236,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"11/13/13",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -10012,6 +11263,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"12/6/05",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -10036,6 +11290,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"4/2/14",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -10060,6 +11317,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"7/1/13",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -10084,6 +11344,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"3/19/15",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -10108,6 +11371,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"10/10/12",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -10132,6 +11398,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"3/23/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -10156,6 +11425,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"7/1/01",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -10180,6 +11452,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"6/25/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -10204,6 +11479,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"9/25/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -10228,6 +11506,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"6/15/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -10252,6 +11533,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"10/27/03",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -10276,6 +11560,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"8/6/90",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -10300,6 +11587,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"10/20/19",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -10324,6 +11614,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"9/18/96",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -10348,6 +11641,9 @@ var points =
     "COUNCIL DISTRICT":4,
     "LOCATION START DATE":"9/16/11",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -10372,6 +11668,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"8/15/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -10396,6 +11695,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"11/10/11",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -10420,6 +11722,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"5/1/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -10444,6 +11749,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"5/24/10",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -10468,6 +11776,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"4/1/56",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -10492,6 +11803,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"2/1/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -10516,6 +11830,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"10/1/80",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -10540,6 +11857,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"3/26/15",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -10564,6 +11884,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"10/14/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -10588,6 +11911,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"1/1/19",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -10612,6 +11938,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"1/1/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -10636,6 +11965,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"1/3/18",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -10660,6 +11992,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"8/17/09",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -10684,6 +12019,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"9/22/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -10708,6 +12046,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"5/1/09",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -10732,6 +12073,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"2/25/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -10756,6 +12100,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"1/1/87",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -10780,6 +12127,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"3/18/13",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -10804,6 +12154,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"3/8/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -10828,6 +12181,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"2/22/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -10852,6 +12208,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"3/29/96",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -10876,6 +12235,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"5/8/13",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -10900,6 +12262,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"10/19/98",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -10924,6 +12289,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"2/14/12",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -10948,6 +12316,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"10/16/12",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -10972,6 +12343,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"8/15/14",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -10996,6 +12370,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"9/1/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -11020,6 +12397,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"3/10/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -11044,6 +12424,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"3/10/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -11068,6 +12451,9 @@ var points =
     "COUNCIL DISTRICT":11,
     "LOCATION START DATE":"8/1/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -11092,6 +12478,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"12/5/78",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -11116,6 +12505,9 @@ var points =
     "COUNCIL DISTRICT":15,
     "LOCATION START DATE":"6/23/03",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -11140,6 +12532,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"4/29/02",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -11164,6 +12559,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"2/14/15",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -11188,6 +12586,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"1/1/16",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -11212,6 +12613,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"3/1/01",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -11236,6 +12640,9 @@ var points =
     "COUNCIL DISTRICT":0,
     "LOCATION START DATE":"9/12/17",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -11260,6 +12667,9 @@ var points =
     "COUNCIL DISTRICT":0,
     "LOCATION START DATE":"3/1/19",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -11284,6 +12694,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"8/21/17",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -11308,6 +12721,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"9/1/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -11332,6 +12748,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"7/15/95",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -11356,6 +12775,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"9/1/02",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -11380,6 +12802,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"5/10/15",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -11404,6 +12829,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"1/1/22",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -11428,6 +12856,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"8/16/84",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -11452,6 +12883,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"6/1/11",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -11476,6 +12910,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"4/1/11",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -11500,6 +12937,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"5/2/06",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -11524,6 +12964,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"12/1/13",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -11548,6 +12991,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"5/22/19",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -11572,6 +13018,9 @@ var points =
     "COUNCIL DISTRICT":15,
     "LOCATION START DATE":"9/11/19",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -11596,6 +13045,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"2/27/11",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -11620,6 +13072,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"5/23/88",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -11644,6 +13099,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"1/15/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -11668,6 +13126,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"4/1/14",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -11692,6 +13153,9 @@ var points =
     "COUNCIL DISTRICT":0,
     "LOCATION START DATE":"2/6/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -11716,6 +13180,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"8/1/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -11740,6 +13207,9 @@ var points =
     "COUNCIL DISTRICT":15,
     "LOCATION START DATE":"6/29/17",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -11764,6 +13234,9 @@ var points =
     "COUNCIL DISTRICT":15,
     "LOCATION START DATE":"8/1/89",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -11788,6 +13261,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"7/1/04",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -11812,6 +13288,9 @@ var points =
     "COUNCIL DISTRICT":11,
     "LOCATION START DATE":"3/1/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -11836,6 +13315,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"3/3/13",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -11860,6 +13342,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"3/15/90",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -11884,6 +13369,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"7/1/05",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -11908,6 +13396,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"1/1/03",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -11932,6 +13423,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"8/11/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -11956,6 +13450,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"1/10/89",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -11980,6 +13477,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"2/1/11",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -12004,6 +13504,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"11/21/87",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -12028,6 +13531,9 @@ var points =
     "COUNCIL DISTRICT":11,
     "LOCATION START DATE":"11/25/98",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -12052,6 +13558,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"6/27/91",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -12076,6 +13585,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"3/1/03",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -12100,6 +13612,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"12/19/03",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -12124,6 +13639,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"1/1/11",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -12148,6 +13666,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"3/15/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -12172,6 +13693,9 @@ var points =
     "COUNCIL DISTRICT":15,
     "LOCATION START DATE":"9/6/05",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -12196,6 +13720,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"11/13/97",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -12220,6 +13747,9 @@ var points =
     "COUNCIL DISTRICT":15,
     "LOCATION START DATE":"2/1/00",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -12244,6 +13774,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"11/13/13",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -12268,6 +13801,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"1/30/09",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -12292,6 +13828,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"8/15/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -12316,6 +13855,9 @@ var points =
     "COUNCIL DISTRICT":15,
     "LOCATION START DATE":"3/15/13",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -12340,6 +13882,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"1/1/10",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -12364,6 +13909,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"5/1/06",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -12388,6 +13936,9 @@ var points =
     "COUNCIL DISTRICT":11,
     "LOCATION START DATE":"10/5/17",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -12412,6 +13963,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"11/7/91",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -12436,6 +13990,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"3/1/91",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -12460,6 +14017,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"5/27/03",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -12484,6 +14044,9 @@ var points =
     "COUNCIL DISTRICT":4,
     "LOCATION START DATE":"1/1/09",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -12508,6 +14071,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"12/17/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -12532,6 +14098,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"12/20/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -12556,6 +14125,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"2/17/92",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -12580,6 +14152,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"10/1/80",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -12604,6 +14179,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"1/1/22",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -12628,6 +14206,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"10/1/09",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -12652,6 +14233,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"2/17/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -12676,6 +14260,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"1/1/01",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -12700,6 +14287,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"9/1/95",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -12724,6 +14314,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"5/30/12",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -12748,6 +14341,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"10/25/05",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -12772,6 +14368,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"11/1/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -12796,6 +14395,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"12/11/85",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -12820,6 +14422,9 @@ var points =
     "COUNCIL DISTRICT":0,
     "LOCATION START DATE":"1/1/22",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -12844,6 +14449,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"1/1/22",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -12868,6 +14476,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"1/9/93",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -12892,6 +14503,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"1/9/14",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -12916,6 +14530,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"11/13/15",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -12940,6 +14557,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"10/16/15",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -12964,6 +14584,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"8/24/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -12988,6 +14611,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"2/10/11",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -13012,6 +14638,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"5/1/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -13036,6 +14665,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"6/10/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -13060,6 +14692,9 @@ var points =
     "COUNCIL DISTRICT":0,
     "LOCATION START DATE":"5/1/95",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -13084,6 +14719,9 @@ var points =
     "COUNCIL DISTRICT":4,
     "LOCATION START DATE":"7/1/90",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -13108,6 +14746,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"4/7/99",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -13132,6 +14773,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"7/10/11",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -13156,6 +14800,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"10/1/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -13180,6 +14827,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"6/17/06",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -13204,6 +14854,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"6/5/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -13228,6 +14881,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"6/25/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -13252,6 +14908,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"2/18/13",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -13276,6 +14935,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"1/1/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -13300,6 +14962,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"3/8/99",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -13324,6 +14989,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"3/10/03",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -13348,6 +15016,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"8/1/02",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -13372,6 +15043,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"7/12/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -13396,6 +15070,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"2/28/19",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -13420,6 +15097,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"11/26/14",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -13444,6 +15124,9 @@ var points =
     "COUNCIL DISTRICT":0,
     "LOCATION START DATE":"1/13/22",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -13468,6 +15151,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"8/1/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -13492,6 +15178,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"2/1/00",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -13516,6 +15205,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"4/15/15",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -13540,6 +15232,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"12/1/15",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -13564,6 +15259,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"4/1/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -13588,6 +15286,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"7/31/07",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -13612,6 +15313,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"1/9/11",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -13636,6 +15340,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"10/2/08",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -13660,6 +15367,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"4/5/11",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -13684,6 +15394,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"9/1/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -13708,6 +15421,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"6/25/07",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -13732,6 +15448,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"4/1/04",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -13756,6 +15475,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"1/1/92",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -13780,6 +15502,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"4/16/14",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -13804,6 +15529,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"10/2/06",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -13828,6 +15556,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"8/1/03",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -13852,6 +15583,9 @@ var points =
     "COUNCIL DISTRICT":11,
     "LOCATION START DATE":"1/1/12",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -13876,6 +15610,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"11/8/93",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -13900,6 +15637,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"12/16/82",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -13924,6 +15664,9 @@ var points =
     "COUNCIL DISTRICT":0,
     "LOCATION START DATE":"3/1/09",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -13948,6 +15691,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"1/1/22",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -13972,6 +15718,9 @@ var points =
     "COUNCIL DISTRICT":11,
     "LOCATION START DATE":"1/1/06",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -13996,6 +15745,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"4/1/02",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -14020,6 +15772,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"9/12/17",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -14044,6 +15799,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"5/2/11",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -14068,6 +15826,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"1/3/22",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -14092,6 +15853,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"3/1/08",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -14116,6 +15880,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"1/31/22",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -14140,6 +15907,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"2/29/96",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -14164,6 +15934,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"8/23/10",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -14188,6 +15961,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"5/12/11",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -14212,6 +15988,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"9/19/03",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -14236,6 +16015,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"4/15/22",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -14260,6 +16042,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"11/29/10",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -14284,6 +16069,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"3/26/15",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -14308,6 +16096,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"3/1/12",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -14332,6 +16123,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"6/1/17",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -14356,6 +16150,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"2/12/04",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -14380,6 +16177,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"6/16/03",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -14404,6 +16204,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"1/5/11",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -14428,6 +16231,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"7/12/13",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -14452,6 +16258,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"3/23/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -14476,6 +16285,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"2/16/10",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -14500,6 +16312,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"3/9/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -14524,6 +16339,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"4/1/02",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -14548,6 +16366,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"8/24/17",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -14572,6 +16393,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"6/15/97",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -14596,6 +16420,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"2/25/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -14620,6 +16447,9 @@ var points =
     "COUNCIL DISTRICT":0,
     "LOCATION START DATE":"6/13/99",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -14644,6 +16474,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"1/1/19",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -14668,6 +16501,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"1/15/11",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -14692,6 +16528,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"5/20/12",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -14716,6 +16555,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"5/22/15",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -14740,6 +16582,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"1/13/01",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -14764,6 +16609,9 @@ var points =
     "COUNCIL DISTRICT":11,
     "LOCATION START DATE":"5/1/80",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -14788,6 +16636,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"3/28/98",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -14812,6 +16663,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"4/17/08",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -14836,6 +16690,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"5/22/17",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -14860,6 +16717,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"3/1/13",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -14884,6 +16744,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"3/1/83",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -14908,6 +16771,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"2/20/93",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -14932,6 +16798,9 @@ var points =
     "COUNCIL DISTRICT":11,
     "LOCATION START DATE":"9/1/61",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -14956,6 +16825,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"2/1/14",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -14980,6 +16852,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"1/1/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -15004,6 +16879,9 @@ var points =
     "COUNCIL DISTRICT":0,
     "LOCATION START DATE":"5/20/13",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -15028,6 +16906,9 @@ var points =
     "COUNCIL DISTRICT":11,
     "LOCATION START DATE":"8/9/13",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -15052,6 +16933,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"1/1/11",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -15076,6 +16960,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"1/1/00",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -15100,6 +16987,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"6/1/01",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -15124,6 +17014,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"7/1/90",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -15148,6 +17041,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"9/1/99",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -15172,6 +17068,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"10/16/06",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -15196,6 +17095,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"1/7/22",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -15220,6 +17122,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"1/5/22",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -15244,6 +17149,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"10/1/02",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -15268,6 +17176,9 @@ var points =
     "COUNCIL DISTRICT":15,
     "LOCATION START DATE":"5/1/10",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -15292,6 +17203,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"2/19/03",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -15316,6 +17230,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"10/1/99",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -15340,6 +17257,9 @@ var points =
     "COUNCIL DISTRICT":11,
     "LOCATION START DATE":"11/1/03",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -15364,6 +17284,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"4/17/09",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -15388,6 +17311,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"5/1/13",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -15412,6 +17338,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"5/2/14",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -15436,6 +17365,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"5/1/67",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -15460,6 +17392,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"8/15/88",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -15484,6 +17419,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"6/15/90",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -15508,6 +17446,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"5/31/17",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -15532,6 +17473,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"10/26/10",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -15556,6 +17500,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"4/1/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -15580,6 +17527,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"10/1/07",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -15604,6 +17554,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"6/16/04",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -15628,6 +17581,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"10/1/98",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -15652,6 +17608,9 @@ var points =
     "COUNCIL DISTRICT":11,
     "LOCATION START DATE":"8/15/88",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -15676,6 +17635,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"7/1/15",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -15700,6 +17662,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"7/2/10",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -15724,6 +17689,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"11/1/00",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -15748,6 +17716,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"4/25/18",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -15772,6 +17743,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"7/1/08",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -15796,6 +17770,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"10/25/07",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -15820,6 +17797,9 @@ var points =
     "COUNCIL DISTRICT":15,
     "LOCATION START DATE":"4/26/18",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -15844,6 +17824,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"3/1/12",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -15868,6 +17851,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"2/15/18",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -15892,6 +17878,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"9/18/12",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -15916,6 +17905,9 @@ var points =
     "COUNCIL DISTRICT":11,
     "LOCATION START DATE":"8/15/88",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -15940,6 +17932,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"6/20/97",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -15964,6 +17959,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"8/1/03",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -15988,6 +17986,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"9/1/00",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -16012,6 +18013,9 @@ var points =
     "COUNCIL DISTRICT":0,
     "LOCATION START DATE":"2/14/18",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -16036,6 +18040,9 @@ var points =
     "COUNCIL DISTRICT":11,
     "LOCATION START DATE":"6/17/15",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -16060,6 +18067,9 @@ var points =
     "COUNCIL DISTRICT":15,
     "LOCATION START DATE":"2/13/18",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -16084,6 +18094,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"4/15/02",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -16108,6 +18121,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"6/25/81",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -16132,6 +18148,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"1/25/13",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -16156,6 +18175,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"11/21/14",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -16180,6 +18202,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"4/5/01",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -16204,6 +18229,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"2/1/12",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -16228,6 +18256,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"11/4/08",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -16252,6 +18283,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"8/13/08",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -16276,6 +18310,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"3/20/96",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -16300,6 +18337,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"8/5/77",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -16324,6 +18364,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"12/1/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -16348,6 +18391,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"2/3/11",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -16372,6 +18418,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"3/7/19",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -16396,6 +18445,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"12/15/06",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -16420,6 +18472,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"11/1/12",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -16444,6 +18499,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"2/1/10",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -16468,6 +18526,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"1/1/13",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -16492,6 +18553,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"4/1/98",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -16516,6 +18580,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"1/1/70",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -16540,6 +18607,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"7/29/99",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -16564,6 +18634,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"5/1/78",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -16588,6 +18661,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"6/1/15",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -16612,6 +18688,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"1/10/12",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -16636,6 +18715,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"1/1/98",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -16660,6 +18742,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"12/1/01",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -16684,6 +18769,9 @@ var points =
     "COUNCIL DISTRICT":11,
     "LOCATION START DATE":"1/1/82",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -16708,6 +18796,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"7/1/18",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -16732,6 +18823,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"11/15/18",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -16756,6 +18850,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"5/1/06",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -16780,6 +18877,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"7/26/18",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -16804,6 +18904,9 @@ var points =
     "COUNCIL DISTRICT":4,
     "LOCATION START DATE":"1/1/49",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -16828,6 +18931,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"9/19/95",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -16852,6 +18958,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"1/1/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -16876,6 +18985,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"8/30/10",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -16900,6 +19012,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"7/16/18",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -16924,6 +19039,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"8/23/82",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -16948,6 +19066,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"1/1/63",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -16972,6 +19093,9 @@ var points =
     "COUNCIL DISTRICT":11,
     "LOCATION START DATE":"4/20/05",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -16996,6 +19120,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"9/12/18",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -17020,6 +19147,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"1/1/15",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -17044,6 +19174,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"5/22/12",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -17068,6 +19201,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"7/24/01",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -17092,6 +19228,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"11/28/97",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -17116,6 +19255,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"2/5/19",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -17140,6 +19282,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"8/4/09",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -17164,6 +19309,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"1/29/10",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -17188,6 +19336,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"11/8/06",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -17212,6 +19363,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"1/10/18",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -17236,6 +19390,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"2/7/16",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -17260,6 +19417,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"6/11/12",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -17284,6 +19444,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"6/1/14",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -17308,6 +19471,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"5/13/05",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -17332,6 +19498,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"4/14/14",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -17356,6 +19525,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"7/29/02",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -17380,6 +19552,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"7/1/96",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -17404,6 +19579,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"6/16/11",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -17428,6 +19606,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"4/1/95",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -17452,6 +19633,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"5/8/00",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -17476,6 +19660,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"6/1/19",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -17500,6 +19687,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"12/1/96",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -17524,6 +19714,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"7/1/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -17548,6 +19741,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"4/1/09",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -17572,6 +19768,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"3/22/90",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -17596,6 +19795,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"8/20/18",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -17620,6 +19822,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"11/9/09",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -17644,6 +19849,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"9/1/13",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -17668,6 +19876,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"1/1/17",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -17692,6 +19903,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"1/7/19",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -17716,6 +19930,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"5/3/13",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -17740,6 +19957,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"1/13/03",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -17764,6 +19984,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"4/23/18",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -17788,6 +20011,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"8/18/09",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -17812,6 +20038,9 @@ var points =
     "COUNCIL DISTRICT":11,
     "LOCATION START DATE":"11/28/13",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -17836,6 +20065,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"12/8/12",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -17860,6 +20092,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"6/18/15",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -17884,6 +20119,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"4/11/18",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -17908,6 +20146,9 @@ var points =
     "COUNCIL DISTRICT":15,
     "LOCATION START DATE":"12/1/69",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -17932,6 +20173,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"4/16/94",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -17956,6 +20200,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"6/6/16",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -17980,6 +20227,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"10/17/06",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -18004,6 +20254,9 @@ var points =
     "COUNCIL DISTRICT":11,
     "LOCATION START DATE":"3/28/93",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -18028,6 +20281,9 @@ var points =
     "COUNCIL DISTRICT":15,
     "LOCATION START DATE":"7/11/18",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -18052,6 +20308,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"10/1/01",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -18076,6 +20335,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"3/1/73",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -18100,6 +20362,9 @@ var points =
     "COUNCIL DISTRICT":15,
     "LOCATION START DATE":"8/31/18",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -18124,6 +20389,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"8/29/88",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -18148,6 +20416,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"7/13/07",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -18172,6 +20443,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"5/5/15",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -18196,6 +20470,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"2/16/10",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -18220,6 +20497,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"6/11/08",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -18244,6 +20524,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"8/21/84",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -18268,6 +20551,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"5/5/99",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -18292,6 +20578,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"3/1/12",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -18316,6 +20605,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"9/10/15",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -18340,6 +20632,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"2/15/01",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -18364,6 +20659,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"1/1/19",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -18388,6 +20686,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"5/26/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -18412,6 +20713,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"8/15/88",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -18436,6 +20740,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"11/5/13",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -18460,6 +20767,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"1/1/53",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -18484,6 +20794,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"3/3/98",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -18508,6 +20821,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"10/9/12",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -18532,6 +20848,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"1/15/94",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -18556,6 +20875,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"3/17/03",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -18580,6 +20902,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"1/13/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -18604,6 +20929,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"9/27/11",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -18628,6 +20956,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"3/19/18",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -18652,6 +20983,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"4/12/19",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -18676,6 +21010,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"8/1/94",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -18700,6 +21037,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"7/1/04",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -18724,6 +21064,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"2/26/10",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -18748,6 +21091,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"7/27/06",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -18772,6 +21118,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"10/1/04",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -18796,6 +21145,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"2/1/91",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -18820,6 +21172,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"5/16/80",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -18844,6 +21199,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"3/15/96",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -18868,6 +21226,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"1/25/19",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -18892,6 +21253,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"8/29/88",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -18916,6 +21280,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"6/1/64",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -18940,6 +21307,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"5/21/13",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -18964,6 +21334,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"11/1/17",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -18988,6 +21361,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"4/1/11",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -19012,6 +21388,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"10/18/11",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -19036,6 +21415,9 @@ var points =
     "COUNCIL DISTRICT":15,
     "LOCATION START DATE":"10/28/99",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -19060,6 +21442,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"9/23/09",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -19084,6 +21469,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"7/1/97",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -19108,6 +21496,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"5/20/03",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -19132,6 +21523,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"3/1/19",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -19156,6 +21550,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"4/14/97",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -19180,6 +21577,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"10/17/07",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -19204,6 +21604,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"1/1/00",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -19228,6 +21631,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"3/14/18",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -19252,6 +21658,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"10/5/15",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -19276,6 +21685,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"4/1/10",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -19300,6 +21712,9 @@ var points =
     "COUNCIL DISTRICT":11,
     "LOCATION START DATE":"2/19/15",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -19324,6 +21739,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"1/4/02",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -19348,6 +21766,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"7/1/87",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -19372,6 +21793,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"7/1/93",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -19396,6 +21820,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"11/1/88",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -19420,6 +21847,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"8/29/88",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -19444,6 +21874,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"7/12/18",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -19468,6 +21901,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"9/25/18",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -19492,6 +21928,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"8/30/77",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -19516,6 +21955,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"1/1/13",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -19540,6 +21982,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"11/22/12",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -19564,6 +22009,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"3/1/89",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -19588,6 +22036,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"2/9/87",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -19612,6 +22063,9 @@ var points =
     "COUNCIL DISTRICT":15,
     "LOCATION START DATE":"5/30/15",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -19636,6 +22090,9 @@ var points =
     "COUNCIL DISTRICT":15,
     "LOCATION START DATE":"3/27/12",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -19660,6 +22117,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"8/14/98",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -19684,6 +22144,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"11/15/15",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -19708,6 +22171,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"2/6/18",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -19732,6 +22198,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"3/1/12",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -19756,6 +22225,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"3/1/15",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -19780,6 +22252,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"9/1/07",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -19804,6 +22279,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"3/15/98",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -19828,6 +22306,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"7/15/05",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -19852,6 +22333,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"4/17/09",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -19876,6 +22360,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"4/1/15",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -19900,6 +22387,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"4/20/18",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -19924,6 +22414,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"3/1/12",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -19948,6 +22441,9 @@ var points =
     "COUNCIL DISTRICT":11,
     "LOCATION START DATE":"11/1/68",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -19972,6 +22468,9 @@ var points =
     "COUNCIL DISTRICT":11,
     "LOCATION START DATE":"9/1/01",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -19996,6 +22495,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"7/25/91",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -20020,6 +22522,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"9/6/00",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -20044,6 +22549,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"9/28/04",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -20068,6 +22576,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"10/24/13",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -20092,6 +22603,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"7/14/03",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -20116,6 +22630,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"11/1/12",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -20140,6 +22657,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"1/6/18",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -20164,6 +22684,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"11/30/09",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -20188,6 +22711,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"1/23/18",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -20212,6 +22738,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"3/11/11",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -20236,6 +22765,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"5/1/00",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -20260,6 +22792,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"11/13/15",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -20284,6 +22819,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"3/1/18",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -20308,6 +22846,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"8/12/14",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -20332,6 +22873,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"3/1/96",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -20356,6 +22900,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"7/16/14",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -20380,6 +22927,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"4/1/71",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -20404,6 +22954,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"5/18/94",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -20428,6 +22981,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"1/27/84",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -20452,6 +23008,9 @@ var points =
     "COUNCIL DISTRICT":0,
     "LOCATION START DATE":"3/30/01",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -20476,6 +23035,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"11/15/96",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -20500,6 +23062,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"11/29/17",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -20524,6 +23089,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"1/1/14",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -20548,6 +23116,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"1/14/10",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -20572,6 +23143,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"5/7/99",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -20596,6 +23170,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"8/29/88",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -20620,6 +23197,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"1/1/06",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -20644,6 +23224,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"8/6/12",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -20668,6 +23251,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"1/27/14",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -20692,6 +23278,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"7/30/16",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -20716,6 +23305,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"9/1/18",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -20740,6 +23332,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"2/26/18",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -20764,6 +23359,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"8/1/18",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -20788,6 +23386,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"4/1/19",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -20812,6 +23413,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"1/1/17",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -20836,6 +23440,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"5/12/18",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -20860,6 +23467,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"8/20/18",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -20884,6 +23494,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"6/10/14",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -20908,6 +23521,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"7/19/06",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -20932,6 +23548,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"4/1/18",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -20956,6 +23575,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"6/26/02",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -20980,6 +23602,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"7/14/16",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -21004,6 +23629,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"7/1/16",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -21028,6 +23656,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"12/18/01",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -21052,6 +23683,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"5/11/01",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -21076,6 +23710,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"1/1/19",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -21100,6 +23737,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"10/1/15",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -21124,6 +23764,9 @@ var points =
     "COUNCIL DISTRICT":11,
     "LOCATION START DATE":"7/31/09",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -21148,6 +23791,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"12/5/95",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -21172,6 +23818,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"4/20/16",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -21196,6 +23845,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"7/16/18",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -21220,6 +23872,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"12/19/17",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -21244,6 +23899,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"9/1/15",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -21268,6 +23926,9 @@ var points =
     "COUNCIL DISTRICT":0,
     "LOCATION START DATE":"11/15/18",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -21292,6 +23953,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"2/1/18",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -21316,6 +23980,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"1/21/15",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -21340,6 +24007,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"11/1/06",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -21364,6 +24034,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"9/20/17",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -21388,6 +24061,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"6/26/15",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -21412,6 +24088,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"11/17/15",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -21436,6 +24115,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"7/19/18",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -21460,6 +24142,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"7/1/96",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -21484,6 +24169,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"1/1/18",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -21508,6 +24196,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"5/20/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -21532,6 +24223,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"9/1/15",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -21556,6 +24250,9 @@ var points =
     "COUNCIL DISTRICT":11,
     "LOCATION START DATE":"1/19/95",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -21580,6 +24277,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"10/11/15",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -21604,6 +24304,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"1/9/19",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -21628,6 +24331,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"7/25/18",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -21652,6 +24358,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"9/25/06",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -21676,6 +24385,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"1/15/19",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -21700,6 +24412,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"4/1/19",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -21724,6 +24439,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"1/2/18",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -21748,6 +24466,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"5/17/90",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -21772,6 +24493,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"5/30/19",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -21796,6 +24520,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"10/23/06",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -21820,6 +24547,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"2/27/15",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -21844,6 +24574,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"1/10/01",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -21868,6 +24601,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"11/1/61",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -21892,6 +24628,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"11/14/01",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -21916,6 +24655,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"3/31/99",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -21940,6 +24682,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"1/1/73",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -21964,6 +24709,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"5/5/22",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -21988,6 +24736,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"10/15/94",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -22012,6 +24763,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"1/26/95",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -22036,6 +24790,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"5/14/85",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -22060,6 +24817,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"7/25/18",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -22084,6 +24844,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"1/30/12",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -22108,6 +24871,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"8/28/12",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -22132,6 +24898,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"12/29/97",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -22156,6 +24925,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"11/17/94",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -22180,6 +24952,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"7/1/92",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -22204,6 +24979,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"1/15/13",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -22228,6 +25006,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"1/1/18",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -22252,6 +25033,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"8/10/04",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -22276,6 +25060,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"1/19/18",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -22300,6 +25087,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"6/21/18",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -22324,6 +25114,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"9/14/16",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -22348,6 +25141,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"4/17/17",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -22372,6 +25168,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"2/21/18",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -22396,6 +25195,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"4/1/19",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -22420,6 +25222,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"3/18/18",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -22444,6 +25249,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"10/5/10",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -22468,6 +25276,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"4/1/18",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -22492,6 +25303,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"4/3/19",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -22516,6 +25330,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"1/1/19",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -22540,6 +25357,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"1/1/18",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -22564,6 +25384,9 @@ var points =
     "COUNCIL DISTRICT":0,
     "LOCATION START DATE":"8/15/88",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -22588,6 +25411,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"5/3/22",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -22612,6 +25438,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"6/30/12",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -22636,6 +25465,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"4/20/12",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -22660,6 +25492,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"7/23/13",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -22684,6 +25519,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"8/1/18",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -22708,6 +25546,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"5/4/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -22732,6 +25573,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"8/1/17",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -22756,6 +25600,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"8/15/88",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -22780,6 +25627,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"9/25/18",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -22804,6 +25654,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"10/1/19",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -22828,6 +25681,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"10/30/19",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -22852,6 +25708,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"7/2/18",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -22876,6 +25735,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"6/18/18",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -22900,6 +25762,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"5/30/17",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -22924,6 +25789,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"9/11/19",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -22948,6 +25816,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"1/1/16",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -22972,6 +25843,9 @@ var points =
     "COUNCIL DISTRICT":11,
     "LOCATION START DATE":"5/18/03",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -22996,6 +25870,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"11/8/08",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -23020,6 +25897,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"7/13/92",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -23044,6 +25924,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"3/26/19",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -23068,6 +25951,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"1/4/16",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -23092,6 +25978,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"10/1/03",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -23116,6 +26005,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"4/17/09",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -23140,6 +26032,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"4/1/04",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -23164,6 +26059,9 @@ var points =
     "COUNCIL DISTRICT":4,
     "LOCATION START DATE":"1/1/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -23188,6 +26086,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"1/1/60",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -23212,6 +26113,9 @@ var points =
     "COUNCIL DISTRICT":4,
     "LOCATION START DATE":"11/1/91",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -23236,6 +26140,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"6/1/17",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -23260,6 +26167,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"1/2/19",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -23284,6 +26194,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"8/15/16",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -23308,6 +26221,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"10/1/11",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -23332,6 +26248,9 @@ var points =
     "COUNCIL DISTRICT":11,
     "LOCATION START DATE":"6/13/92",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -23356,6 +26275,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"2/28/22",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -23380,6 +26302,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"3/1/12",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -23404,6 +26329,9 @@ var points =
     "COUNCIL DISTRICT":11,
     "LOCATION START DATE":"10/30/79",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -23428,6 +26356,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"9/20/96",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -23452,6 +26383,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"1/22/22",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -23476,6 +26410,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"8/1/55",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -23500,6 +26437,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"10/16/01",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -23524,6 +26464,9 @@ var points =
     "COUNCIL DISTRICT":15,
     "LOCATION START DATE":"11/1/15",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -23548,6 +26491,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"5/1/22",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -23572,6 +26518,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"11/20/98",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -23596,6 +26545,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"5/21/10",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -23620,6 +26572,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"12/1/12",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -23644,6 +26599,9 @@ var points =
     "COUNCIL DISTRICT":11,
     "LOCATION START DATE":"2/1/18",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -23668,6 +26626,9 @@ var points =
     "COUNCIL DISTRICT":11,
     "LOCATION START DATE":"9/18/84",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -23692,6 +26653,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"11/23/92",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -23716,6 +26680,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"1/1/17",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -23740,6 +26707,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"2/17/15",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -23764,6 +26734,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"8/29/88",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -23788,6 +26761,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"1/15/16",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -23812,6 +26788,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"10/28/09",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -23836,6 +26815,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"4/9/18",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -23860,6 +26842,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"6/3/92",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -23884,6 +26869,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"8/1/18",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -23908,6 +26896,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"1/1/14",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -23932,6 +26923,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"8/1/01",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -23956,6 +26950,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"3/28/19",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -23980,6 +26977,9 @@ var points =
     "COUNCIL DISTRICT":11,
     "LOCATION START DATE":"10/1/50",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -24004,6 +27004,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"5/1/17",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -24028,6 +27031,9 @@ var points =
     "COUNCIL DISTRICT":11,
     "LOCATION START DATE":"11/23/91",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -24052,6 +27058,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"1/1/16",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -24076,6 +27085,9 @@ var points =
     "COUNCIL DISTRICT":0,
     "LOCATION START DATE":"5/10/22",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -24100,6 +27112,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"10/1/04",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -24124,6 +27139,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"9/1/16",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -24148,6 +27166,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"6/1/17",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -24172,6 +27193,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"6/18/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -24196,6 +27220,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"2/20/17",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -24220,6 +27247,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"10/2/19",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -24244,6 +27274,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"11/9/98",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -24268,6 +27301,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"1/1/95",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -24292,6 +27328,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"4/1/11",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -24316,6 +27355,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"12/1/17",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -24340,6 +27382,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"1/3/17",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -24364,6 +27409,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"7/1/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -24388,6 +27436,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"8/11/18",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -24412,6 +27463,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"1/13/12",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -24436,6 +27490,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"4/1/94",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -24460,6 +27517,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"5/1/13",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -24484,6 +27544,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"4/28/16",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -24508,6 +27571,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"1/1/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -24532,6 +27598,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"1/4/19",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -24556,6 +27625,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"9/1/16",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -24580,6 +27652,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"7/2/18",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -24604,6 +27679,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"3/30/22",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -24628,6 +27706,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"10/13/10",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -24652,6 +27733,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"10/9/18",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -24676,6 +27760,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"3/29/04",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -24700,6 +27787,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"6/1/16",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -24724,6 +27814,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"6/20/15",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -24748,6 +27841,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"4/27/18",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -24772,6 +27868,9 @@ var points =
     "COUNCIL DISTRICT":11,
     "LOCATION START DATE":"4/2/00",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -24796,6 +27895,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"2/7/17",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -24820,6 +27922,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"1/15/17",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -24844,6 +27949,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"6/9/14",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -24868,6 +27976,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"2/24/16",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -24892,6 +28003,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"10/1/15",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -24916,6 +28030,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"10/23/17",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -24940,6 +28057,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"10/1/19",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -24964,6 +28084,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"8/15/88",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -24988,6 +28111,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"5/19/16",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -25012,6 +28138,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"12/1/17",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -25036,6 +28165,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"10/25/87",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -25060,6 +28192,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"11/2/18",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -25084,6 +28219,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"3/1/99",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -25108,6 +28246,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"4/1/18",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -25132,6 +28273,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"1/1/04",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -25156,6 +28300,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"6/13/17",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -25180,6 +28327,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"1/1/18",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -25204,6 +28354,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"2/1/14",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -25228,6 +28381,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"3/15/18",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -25252,6 +28408,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"5/20/13",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -25276,6 +28435,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"4/28/16",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -25300,6 +28462,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"5/15/02",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -25324,6 +28489,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"1/1/84",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -25348,6 +28516,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"3/22/13",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -25372,6 +28543,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"3/1/18",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -25396,6 +28570,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"1/9/15",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -25420,6 +28597,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"6/12/19",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -25444,6 +28624,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"3/13/09",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -25468,6 +28651,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"1/1/18",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -25492,6 +28678,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"12/16/15",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -25516,6 +28705,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"9/8/17",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -25540,6 +28732,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"10/15/95",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -25564,6 +28759,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"4/13/17",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -25588,6 +28786,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"9/5/18",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -25612,6 +28813,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"7/1/89",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -25636,6 +28840,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"11/1/72",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -25660,6 +28867,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"6/22/18",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -25684,6 +28894,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"1/30/18",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -25708,6 +28921,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"3/1/19",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -25732,6 +28948,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"1/12/17",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -25756,6 +28975,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"5/16/16",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -25780,6 +29002,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"7/15/18",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -25804,6 +29029,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"10/21/87",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -25828,6 +29056,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"12/20/95",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -25852,6 +29083,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"5/1/16",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -25876,6 +29110,9 @@ var points =
     "COUNCIL DISTRICT":0,
     "LOCATION START DATE":"4/1/22",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -25900,6 +29137,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"3/1/77",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -25924,6 +29164,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"8/11/11",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -25948,6 +29191,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"3/18/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -25972,6 +29218,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"10/1/18",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -25996,6 +29245,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"6/22/91",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -26020,6 +29272,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"4/1/16",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -26044,6 +29299,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"8/19/08",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -26068,6 +29326,9 @@ var points =
     "COUNCIL DISTRICT":4,
     "LOCATION START DATE":"3/1/22",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -26092,6 +29353,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"8/1/98",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -26116,6 +29380,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"7/1/17",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -26140,6 +29407,9 @@ var points =
     "COUNCIL DISTRICT":0,
     "LOCATION START DATE":"8/29/16",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -26164,6 +29434,9 @@ var points =
     "COUNCIL DISTRICT":11,
     "LOCATION START DATE":"10/28/98",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -26188,6 +29461,9 @@ var points =
     "COUNCIL DISTRICT":0,
     "LOCATION START DATE":"8/1/89",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -26212,6 +29488,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"1/1/22",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -26236,6 +29515,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"8/3/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -26260,6 +29542,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"7/1/06",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -26284,6 +29569,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"7/22/88",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -26308,6 +29596,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"3/27/01",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -26332,6 +29623,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"7/29/99",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -26356,6 +29650,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"9/10/13",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -26380,6 +29677,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"11/1/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -26404,6 +29704,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"3/1/15",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -26428,6 +29731,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"4/25/17",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -26452,6 +29758,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"7/20/15",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -26476,6 +29785,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"1/2/72",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -26500,6 +29812,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"9/1/94",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -26524,6 +29839,9 @@ var points =
     "COUNCIL DISTRICT":0,
     "LOCATION START DATE":"2/16/15",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -26548,6 +29866,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"3/16/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -26572,6 +29893,9 @@ var points =
     "COUNCIL DISTRICT":0,
     "LOCATION START DATE":"5/1/15",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -26596,6 +29920,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"5/25/16",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -26620,6 +29947,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"2/25/13",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -26644,6 +29974,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"11/10/14",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -26668,6 +30001,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"2/19/15",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -26692,6 +30028,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"3/1/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -26716,6 +30055,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"9/10/15",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -26740,6 +30082,9 @@ var points =
     "COUNCIL DISTRICT":4,
     "LOCATION START DATE":"10/25/93",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -26764,6 +30109,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"1/7/15",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -26788,6 +30136,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"7/18/89",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -26812,6 +30163,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"12/23/91",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -26836,6 +30190,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"7/25/01",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -26860,6 +30217,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"5/1/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -26884,6 +30244,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"4/1/16",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -26908,6 +30271,9 @@ var points =
     "COUNCIL DISTRICT":11,
     "LOCATION START DATE":"9/27/05",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -26932,6 +30298,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"5/15/02",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -26956,6 +30325,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"6/12/12",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -26980,6 +30352,9 @@ var points =
     "COUNCIL DISTRICT":15,
     "LOCATION START DATE":"10/28/11",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -27004,6 +30379,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"8/29/88",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -27028,6 +30406,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"11/1/11",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -27052,6 +30433,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"10/1/19",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -27076,6 +30460,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"7/1/11",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -27100,6 +30487,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"12/12/14",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -27124,6 +30514,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"1/20/15",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -27148,6 +30541,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"11/13/96",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -27172,6 +30568,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"8/26/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -27196,6 +30595,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"12/12/96",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -27220,6 +30622,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"9/7/98",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -27244,6 +30649,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"1/2/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -27268,6 +30676,9 @@ var points =
     "COUNCIL DISTRICT":11,
     "LOCATION START DATE":"6/11/90",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -27292,6 +30703,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"9/2/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -27316,6 +30730,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"4/30/15",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -27340,6 +30757,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"4/14/22",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -27364,6 +30784,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"8/21/15",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -27388,6 +30811,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"2/1/98",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -27412,6 +30838,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"8/15/88",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -27436,6 +30865,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"10/1/15",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -27460,6 +30892,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"7/1/17",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -27484,6 +30919,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"5/5/15",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -27508,6 +30946,9 @@ var points =
     "COUNCIL DISTRICT":0,
     "LOCATION START DATE":"11/4/14",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -27532,6 +30973,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"4/5/16",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -27556,6 +31000,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"1/17/17",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -27580,6 +31027,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"6/2/22",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -27604,6 +31054,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"7/18/13",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -27628,6 +31081,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"1/10/17",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -27652,6 +31108,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"12/13/13",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -27676,6 +31135,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"10/29/15",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -27700,6 +31162,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"2/28/22",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -27724,6 +31189,9 @@ var points =
     "COUNCIL DISTRICT":11,
     "LOCATION START DATE":"11/1/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -27748,6 +31216,9 @@ var points =
     "COUNCIL DISTRICT":0,
     "LOCATION START DATE":"5/9/22",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -27772,6 +31243,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"4/1/22",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -27796,6 +31270,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"6/20/14",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -27820,6 +31297,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"6/1/22",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -27844,6 +31324,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"1/1/02",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -27868,6 +31351,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"5/1/96",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -27892,6 +31378,9 @@ var points =
     "COUNCIL DISTRICT":0,
     "LOCATION START DATE":"7/1/22",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -27916,6 +31405,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"5/7/15",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -27940,6 +31432,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"1/26/16",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -27964,6 +31459,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"8/4/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -27988,6 +31486,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"6/30/17",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -28012,6 +31513,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"5/3/21",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -28036,6 +31540,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"5/1/22",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -28060,6 +31567,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"6/2/17",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -28084,6 +31594,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"8/10/89",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -28108,6 +31621,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"3/7/12",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -28132,6 +31648,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"10/29/15",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -28156,6 +31675,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"1/4/22",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -28180,6 +31702,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"4/1/17",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -28204,6 +31729,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"4/7/17",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -28228,6 +31756,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"1/2/22",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -28252,6 +31783,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"3/20/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -28276,6 +31810,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"2/9/08",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -28300,6 +31837,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"3/1/11",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -28324,6 +31864,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"8/25/16",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -28348,6 +31891,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"4/21/17",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -28372,6 +31918,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"8/2/17",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -28396,6 +31945,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"6/6/17",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -28420,6 +31972,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"5/15/16",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -28444,6 +31999,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"6/30/94",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -28468,6 +32026,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"5/6/14",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -28492,6 +32053,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"7/11/94",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -28516,6 +32080,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"3/7/17",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -28540,6 +32107,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"6/30/16",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -28564,6 +32134,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"6/29/17",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -28588,6 +32161,9 @@ var points =
     "COUNCIL DISTRICT":11,
     "LOCATION START DATE":"8/1/84",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -28612,6 +32188,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"2/2/17",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -28636,6 +32215,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"4/17/78",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -28660,6 +32242,9 @@ var points =
     "COUNCIL DISTRICT":0,
     "LOCATION START DATE":"6/1/16",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -28684,6 +32269,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"7/8/16",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -28708,6 +32296,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"5/22/85",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -28732,6 +32323,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"10/1/16",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -28756,6 +32350,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"8/18/16",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -28780,6 +32377,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"5/3/17",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -28804,6 +32404,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"1/5/17",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -28828,6 +32431,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"2/12/01",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -28852,6 +32458,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"7/1/16",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -28876,6 +32485,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"1/4/17",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -28900,6 +32512,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"12/1/15",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -28924,6 +32539,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"1/1/53",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -28948,6 +32566,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"9/7/16",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -28972,6 +32593,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -28996,6 +32620,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"1/20/07",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -29020,6 +32647,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -29044,6 +32674,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"5/6/98",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -29068,6 +32701,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -29092,6 +32728,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -29116,6 +32755,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"6/25/03",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -29140,6 +32782,9 @@ var points =
     "COUNCIL DISTRICT":5,
     "LOCATION START DATE":"",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -29164,6 +32809,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"8/3/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -29188,6 +32836,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"4/23/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -29212,6 +32863,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"3/1/15",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -29236,6 +32890,9 @@ var points =
     "COUNCIL DISTRICT":0,
     "LOCATION START DATE":"8/10/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -29260,6 +32917,9 @@ var points =
     "COUNCIL DISTRICT":1,
     "LOCATION START DATE":"9/3/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -29284,6 +32944,9 @@ var points =
     "COUNCIL DISTRICT":11,
     "LOCATION START DATE":"7/22/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -29308,6 +32971,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"7/1/04",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -29332,6 +32998,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"8/3/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -29356,6 +33025,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"9/1/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -29380,6 +33052,9 @@ var points =
     "COUNCIL DISTRICT":11,
     "LOCATION START DATE":"8/1/22",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -29404,6 +33079,9 @@ var points =
     "COUNCIL DISTRICT":4,
     "LOCATION START DATE":"3/22/13",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -29428,6 +33106,9 @@ var points =
     "COUNCIL DISTRICT":0,
     "LOCATION START DATE":"7/1/22",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -29452,6 +33133,9 @@ var points =
     "COUNCIL DISTRICT":15,
     "LOCATION START DATE":"7/1/22",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -29476,6 +33160,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"9/6/22",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -29500,6 +33187,9 @@ var points =
     "COUNCIL DISTRICT":0,
     "LOCATION START DATE":"9/1/22",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -29524,6 +33214,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"6/23/22",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -29548,6 +33241,9 @@ var points =
     "COUNCIL DISTRICT":0,
     "LOCATION START DATE":"9/20/22",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -29572,6 +33268,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"9/15/22",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -29596,6 +33295,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"5/4/22",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -29620,6 +33322,9 @@ var points =
     "COUNCIL DISTRICT":13,
     "LOCATION START DATE":"10/3/22",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -29644,6 +33349,9 @@ var points =
     "COUNCIL DISTRICT":9,
     "LOCATION START DATE":"9/22/22",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -29668,6 +33376,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"10/1/22",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -29692,6 +33403,9 @@ var points =
     "COUNCIL DISTRICT":10,
     "LOCATION START DATE":"7/1/22",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -29716,6 +33430,9 @@ var points =
     "COUNCIL DISTRICT":0,
     "LOCATION START DATE":"11/1/22",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -29740,6 +33457,9 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"1/24/20",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -29764,6 +33484,9 @@ var points =
     "COUNCIL DISTRICT":0,
     "LOCATION START DATE":"9/1/22",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -29788,6 +33511,9 @@ var points =
     "COUNCIL DISTRICT":14,
     "LOCATION START DATE":"6/1/03",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   },
   {
@@ -29812,10 +33538,10 @@ var points =
     "COUNCIL DISTRICT":8,
     "LOCATION START DATE":"10/16/22",
     "LOCATION END DATE":""
+    },
+    "style": {
+        "fill":"purple"
     }
   }
 ]
 };
-
-var geojsonLayer = L.geoJSON(points);
-geojsonLayer.addTo(map);
