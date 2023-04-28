@@ -64,9 +64,11 @@
     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
   }).addTo(geoMap);
 
-
   var groceryStyle = {
-    "color": "#555555"
+    "type": "Point",
+    "color": "#ff7800",
+    "weight": 5,
+    "opacity": 0.65
   };
 
   fetch("Grocery_Stores.geojson").then(res => res.json()).then(data => {
@@ -100,6 +102,10 @@
           </li>
           <li>
             <a href="goodfoodla.org">goodfoodla.org</a>
+          </li>
+          <li><p></p></li>
+          <li>
+            <em>Foodle: it's like Google, but for food!</em>
           </li>
         </ul>          
       </div>

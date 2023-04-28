@@ -35,9 +35,11 @@ permalink: /map
     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
   }).addTo(geoMap);
 
-
   var groceryStyle = {
-    "color": "#555555"
+    "type": "Point",
+    "color": "#ff7800",
+    "weight": 5,
+    "opacity": 0.65
   };
 
   fetch("Grocery_Stores.geojson").then(res => res.json()).then(data => {

@@ -119,8 +119,8 @@
           Table
         </label>
       </div>
-      <div>
-        <button class="filterSearch" id="formatSearch" name="formatSearch"> Search</button>
+      <!-- <div>
+        <button class = "filterSearch" id="formatSearch" name="formatSearch"> Search</button>
       </div>
       <script>
         const formatCB = document.querySelector('#formatSearch');
@@ -133,7 +133,7 @@
 
           filterSearchURL(values);
         })
-      </script>
+      </script> -->
     </fieldset>
     <p> </p>
     <fieldset>
@@ -190,8 +190,8 @@
         <input type="checkbox" id="zip" name="location" value="zip" />
         <label for="zip">Zip Code</label>
       </div>
-      <div>
-        <button class="filterSearch" id="locationSearch" name="locationSearch"> Search</button>
+      <!-- <div>
+        <button class = "filterSearch" id="locationSearch" name="locationSearch"> Search</button>
       </div>
       <script>
         const locationCB = document.querySelector('#locationSearch');
@@ -204,8 +204,34 @@
 
           filterSearchURL(values);
         })
-      </script>
+      </script> -->
     </fieldset>
+    <p> </p>
+    <div>
+      <button class="filterSearch" id="filterSearch" name="filterSearch"> Filter Search Results</button>
+    </div>
+    <script>
+      const filterSearchCB = document.querySelector("#filterSearch");
+      filterSearch.addEventListener("click", (event) => {
+        let locationCheckboxes = document.querySelectorAll("input[name='location']:checked");
+        let formatCheckboxes = document.querySelectorAll("input[name='format']:checked");
+        let dataPointsCheckboxes = document.querySelectorAll("input[name='dataPoints']:checked");
+
+        let values = [];
+
+        locationCheckboxes.forEach((checkbox) => {
+          values.push(checkbox.value + "+");
+        });
+        formatCheckboxes.forEach((checkbox) => {
+          values.push(checkbox.value + "+");
+        });
+        dataPointsCheckboxes.forEach((checkbox) => {
+          values.push(checkbox.value + "+");
+        });
+
+        filterSearchURL(values);
+      })
+    </script>
   </div>
   <div class="column">
     <fieldset>
@@ -306,8 +332,8 @@
         <input type="checkbox" id="veteran" name="dataPoints" value="veteran" />
         <label for="veteran">Veteran Status</label>
       </div>
-      <div>
-        <button class="filterSearch" id="dataPointsSearch" name="dataPointsSearch"> Search</button>
+      <!-- <div>
+        <button class = "filterSearch" id="dataPointsSearch" name="dataPointsSearch"> Search</button>
       </div>
       <script>
         const dataPointsCB = document.querySelector('#dataPointsSearch');
@@ -320,7 +346,7 @@
 
           filterSearchURL(values);
         })
-      </script>
+      </script> -->
     </fieldset>
   </div>
 </div>
@@ -355,6 +381,10 @@
           </li>
           <li>
             <a href="goodfoodla.org">goodfoodla.org</a>
+          </li>
+          <li><p></p></li>
+          <li>
+            <em>Foodle: it's like Google, but for food!</em>
           </li>
         </ul>          
       </div>

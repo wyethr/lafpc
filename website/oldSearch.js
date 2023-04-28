@@ -183,6 +183,25 @@ window.store = [
 	}
 	,
 	{
+      "name": "Ecology Center Farmers' Market Finder",
+      "locations": [
+      	"address",
+      	"city",
+      	"congressionalDistrict",
+      	"county",
+      	"zip"
+      ],
+      "url": "https://ecologycenter.org/fmfinder/",
+      "format": [
+      	"map"
+      ],
+      "dataPoints": [
+      	"farmersMarkets",
+      	"SNAP"
+      ]
+    }
+    ,
+	{
       "name": "Environmental Health Inspection Results -'Restaurant and Market Health Violations'",
       "locations": [
       	"address",

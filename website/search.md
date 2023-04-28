@@ -86,7 +86,7 @@ permalink: /search.html
           Table
         </label>
       </div>
-      <div>
+      <!-- <div>
         <button class = "filterSearch" id="formatSearch" name="formatSearch"> Search</button>
       </div>
       <script>
@@ -100,7 +100,7 @@ permalink: /search.html
 
           filterSearchURL(values);
         })
-      </script>
+      </script> -->
     </fieldset>
     <p> </p>
     <fieldset>
@@ -157,7 +157,7 @@ permalink: /search.html
         <input type="checkbox" id="zip" name="location" value="zip" />
         <label for="zip">Zip Code</label>
       </div>
-      <div>
+      <!-- <div>
         <button class = "filterSearch" id="locationSearch" name="locationSearch"> Search</button>
       </div>
       <script>
@@ -171,8 +171,34 @@ permalink: /search.html
 
           filterSearchURL(values);
         })
-      </script>
+      </script> -->
     </fieldset>
+    <p> </p>
+    <div>
+      <button class="filterSearch" id="filterSearch" name="filterSearch"> Filter Search Results</button>
+    </div>
+    <script>
+      const filterSearchCB = document.querySelector("#filterSearch");
+      filterSearch.addEventListener("click", (event) => {
+        let locationCheckboxes = document.querySelectorAll("input[name='location']:checked");
+        let formatCheckboxes = document.querySelectorAll("input[name='format']:checked");
+        let dataPointsCheckboxes = document.querySelectorAll("input[name='dataPoints']:checked");
+
+        let values = [];
+
+        locationCheckboxes.forEach((checkbox) => {
+          values.push(checkbox.value + "+");
+        });
+        formatCheckboxes.forEach((checkbox) => {
+          values.push(checkbox.value + "+");
+        });
+        dataPointsCheckboxes.forEach((checkbox) => {
+          values.push(checkbox.value + "+");
+        });
+
+        filterSearchURL(values);
+      })
+    </script>
   </div>
   <div class="column">
     <fieldset>
@@ -273,7 +299,7 @@ permalink: /search.html
         <input type="checkbox" id="veteran" name="dataPoints" value="veteran" />
         <label for="veteran">Veteran Status</label>
       </div>
-      <div>
+      <!-- <div>
         <button class = "filterSearch" id="dataPointsSearch" name="dataPointsSearch"> Search</button>
       </div>
       <script>
@@ -287,7 +313,7 @@ permalink: /search.html
 
           filterSearchURL(values);
         })
-      </script>
+      </script> -->
     </fieldset>
   </div>
 </div>
