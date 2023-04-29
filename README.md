@@ -13,6 +13,8 @@ NEW POTENTIAL DATA POINTS:
     Neighborhood Data for Social Change
 *** Fertility 
     Census Reporter
+*** Farms
+    LAFPC 2020 Dashboard
 *** Food Price
     Public Exchange - Improving Healthy Food Access
 *** Obesity 
@@ -26,6 +28,8 @@ NEW POTENTIAL DATA POINTS:
     USC - The impact of COVID-19 ... May 2020
 *** Violence 
     Schmitz et al. 2016 - Food insecurity among people who inject drugs
+*** WIC
+    LAFPC 2020 Dashboard
 
 LOCATIONS: 
 *** Coordinates 

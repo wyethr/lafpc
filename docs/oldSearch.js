@@ -451,6 +451,50 @@ window.store = [
 	}
 	,
 	{
+      "name": "Los Angeles Food Policy Council - '2020 Annual Report'",
+      "locations": [
+      	"city",
+      	"county"
+      ],
+      "url": "https://drive.google.com/file/d/1Sj3Xy7HnIJNUkGIjF9vntuaNb30NMcs3/view",
+      "format": [
+      	"study"
+      ],
+      "dataPoints": [
+      	"foodAssistance",
+      	"recommendations"
+      ]
+    }
+    ,
+    {
+      "name": "Los Angeles Food Policy Council - '2020 Food System Dashboard'",
+      "locations": [
+      	"city",
+      	"county",
+      	"neighborhood",
+      	"servicePlanningArea"
+      ],
+      "url": "https://static1.squarespace.com/static/5bc50618ab1a624d324ecd81/t/5e45c5915750af6b4e5e5c4b/1581630905550/2020FoodSystemDashboard.pdf",
+      "format": [
+      	"graph",
+      	"study",
+      	"table"
+      ],
+      "dataPoints": [
+      	"age",
+      	"farmersMarkets",
+      	"foodAssistance",
+      	"foodInsecurity",
+      	"groceryStores",
+      	"health",
+      	"income/poverty",
+      	"placeOfOrigin",
+      	"race/ethnicity",
+      	"SNAP"
+      ]
+    }
+    ,
+	{
       "name": "Los Angeles Food Policy Council - 'Fresh Ideas for CalFresh'",
       "locations": [
       	"county",
