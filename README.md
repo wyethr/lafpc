@@ -28,8 +28,6 @@ NEW POTENTIAL DATA POINTS:
     USC - The impact of COVID-19 ... May 2020
 *** Violence 
     Schmitz et al. 2016 - Food insecurity among people who inject drugs
-*** WIC
-    LAFPC 2020 Dashboard
 
 LOCATIONS: 
 *** Coordinates 

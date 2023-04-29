@@ -136,6 +136,25 @@ window.store = [
 	}
 	,
 	{
+      "name": "California Department of Public Health - 'Stores Accepting the California WIC Card'",
+      "locations": [
+      	"address",
+      	"city",
+      	"state",
+      	"zip"
+      ],
+      "url": "https://www.cdph.ca.gov/Programs/CFH/DWICSN/CDPH%20Document%20Library/WICCard/Stores%20Accepting%20California%20WIC%20Card.pdf",
+      "format": [
+      	"table"
+      ],
+      "dataPoints": [
+      	"foodAssistance",
+      	"groceryStores",
+      	"WIC"
+      ]
+    }
+    ,
+	{
 		"name": "Census Reporter",
 		"locations": [
 			"state",
@@ -490,7 +509,8 @@ window.store = [
       	"income/poverty",
       	"placeOfOrigin",
       	"race/ethnicity",
-      	"SNAP"
+      	"SNAP",
+      	"WIC"
       ]
     }
     ,
@@ -1138,6 +1158,25 @@ window.store = [
 		],
 	}
 	,
+	{
+      "name": "WIC Program - 'Los Angeles WIC Stores CA'",
+      "locations": [
+      	"address",
+      	"city",
+      	"state",
+      	"zip"
+      ],
+      "url": "https://www.wicprogram.net/wic-approved-stores-in-los-angeles-ca-wsc1504",
+      "format": [
+      	"table"
+      ],
+      "dataPoints": [
+      	"foodAssistance",
+      	"groceryStores",
+      	"WIC"
+      ]
+    }
+    ,
 	{
       "name": "Wiss et al. 2021 - 'Food insecurity partially mediates the association between drug use and depressive symptoms among men who have sex with men in Los Angeles, California'",
       "locations": [

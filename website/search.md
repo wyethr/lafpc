@@ -285,7 +285,7 @@ permalink: /search.html
       </div>
       <div>
         <input type="checkbox" id="SNAP" name="dataPoints" value="SNAP" />
-        <label for="SNAP">SNAP Data/Participation</label>
+        <label for="SNAP">SNAP Data, Access, and Participation</label>
       </div>
       <div>
         <input type="checkbox" id="tech" name="dataPoints" value="tech" />
@@ -298,6 +298,10 @@ permalink: /search.html
       <div>
         <input type="checkbox" id="veteran" name="dataPoints" value="veteran" />
         <label for="veteran">Veteran Status</label>
+      </div>
+      <div>
+        <input type="checkbox" id="WIC" name="dataPoints" value="WIC" />
+        <label for="WIC">WIC Data, Access, and Particiaption</label>
       </div>
       <!-- <div>
         <button class = "filterSearch" id="dataPointsSearch" name="dataPointsSearch"> Search</button>
