@@ -7,7 +7,7 @@ permalink: /map
 <head>
   <link rel="stylesheet" href="style.css">
   
-  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"
+  <link rel="stylesheet" href="leaflet/leaflet.css"
      integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI="
      crossorigin=""/>
 
