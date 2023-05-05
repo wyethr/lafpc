@@ -7427,8 +7427,8 @@ function icon(options) {
 var IconDefault = Icon.extend({
 
 	options: {
-		iconUrl:       'marker-icon.png',
-		iconRetinaUrl: 'marker-icon-2x.png',
+		iconUrl:       'marker-icon-green.png',
+		iconRetinaUrl: 'marker-icon-green.png',
 		shadowUrl:     'marker-shadow.png',
 		iconSize:    [25, 41],
 		iconAnchor:  [12, 41],
@@ -7455,7 +7455,7 @@ var IconDefault = Icon.extend({
 			return match && match[idx];
 		};
 		path = strip(path, /^url\((['"])?(.+)\1\)$/, 2);
-		return path && strip(path, /^(.*)marker-icon\.png$/, 1);
+		return path && strip(path, /^(.*)marker-icon-green\.png$/, 1);
 	},
 
 	_detectIconPath: function () {
