@@ -44,13 +44,25 @@ permalink: /map
 
   fetch("Grocery_Stores.geojson").then(res => res.json()).then(data => {
     // add GeoJSON layer to the map once the file is loaded
-    L.geoJson(data, {
-      style: groceryStyle
-    }).addTo(geoMap);
+    L.geoJson(data).addTo(geoMap);
   });
 
   fetch("Farmers_Markets.geojson").then(res => res.json()).then(data => {
     // add GeoJSON layer to the map once the file is loaded
     L.geoJson(data).addTo(geoMap);
   });
+
+  var LeafIcon = L.Icon.extend({
+    options: {
+      shadowUrl: 'leaflet/images/marker-shadow.png',
+      iconSize: [38, 95],
+      shadowSize:   [50, 64],
+      iconAnchor:   [22, 94],
+      shadowAnchor: [4, 62],
+      popupAnchor:  [-3, -76]
+    }
+  });
+
+  var greenIcon = new LeafIcon({iconUrl: 'leaflet/images/marker-icon-green.png'});
+  L.marker([34, -118], {icon:greenIcon}).addTo(geoMap).bindPopup("I am a green leaf.");
 </script>
