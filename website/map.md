@@ -43,11 +43,10 @@ permalink: /map
     L.geoJson(data).addTo(geoMap);
   });
 
-  for(var key in groceryStores.FeatureCollection){
-    console.log(key);
-      console.log(groceryStores.FeatureCollection[key]);
-      console.log("beyond key");
-      
+  for(let i = 0; i < groceryStores.length; i++){
+    let obj = groceryStores[i];
+
+    console.log(obj.id);
   }
 
   /* fetch("Farmers_Markets.geojson").then(res => res.json()).then(data => {

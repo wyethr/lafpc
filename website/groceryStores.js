@@ -1,8 +1,5 @@
 var groceryStores = [
 
-{
-   "type": "FeatureCollection",
-   "features": [
   {
     "type": "Feature",
     "geometry": {
@@ -33375,6 +33372,4 @@ var groceryStores = [
         "fill":"purple"
     }
   }
-]
-}
 ];
