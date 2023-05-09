@@ -48,7 +48,7 @@ permalink: /map
 
 
     console.log(i);
-    console.log(obj.id);
+    console.log(obj.geometry.coordinates);
   }
 
   /* fetch("Farmers_Markets.geojson").then(res => res.json()).then(data => {
