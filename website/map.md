@@ -46,6 +46,8 @@ permalink: /map
 
   for(var key in groceryStores.jsonData){
       console.log(groceryStores.jsonData[key]);
+
+      console.log("hello");
   }
 
   /* fetch("Farmers_Markets.geojson").then(res => res.json()).then(data => {
