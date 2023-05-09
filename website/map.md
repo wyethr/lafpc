@@ -38,17 +38,28 @@ permalink: /map
     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
   }).addTo(geoMap);
 
-  fetch("Grocery_Stores.geojson").then(res => res.json()).then(data => {
+  /* etch("Grocery_Stores.geojson").then(res => res.json()).then(data => {
     // add GeoJSON layer to the map once the file is loaded
     L.geoJson(data).addTo(geoMap);
+  }); */
+
+  var greenIcon = L.icon({
+    iconUrl: 'marker-icon.png',
+
+    iconSize:     [38, 95], // size of the icon
+    iconAnchor:   [22, 94], // point of the icon which will correspond to marker's location
+    popupAnchor:  [-3, -76] // point from which the popup should open relative to the iconAnchor
   });
 
   for(let i = 0; i < groceryStores.length; i++){
-    let obj = groceryStores[i];
-
+    let groceryStore = groceryStores[i];
 
     console.log(i);
-    console.log(obj.geometry.coordinates);
+
+    if(groceryStore.geometry.coordinates[0] != null && groceryStore.geometry.coordinates[1] != null) {
+      console.log(groceryStore.geometry.coordinates[0]);
+      L.marker([groceryStore.geometry.coordinates[1], groceryStore.geometry.coordinates[0]], {icon: greenIcon}).addTo(geoMap);
+    }
   }
 
   /* fetch("Farmers_Markets.geojson").then(res => res.json()).then(data => {
