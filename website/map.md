@@ -7,9 +7,13 @@ permalink: /map
 <head>
   <link rel="stylesheet" href="style.css">
   
-  <link rel="stylesheet" href="leaflet/leaflet.css">
+  <link rel="stylesheet" href="leaflet/leaflet.css"
+     integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI="
+     crossorigin=""/>
 
-  <script src="leaflet/leaflet.js"></script>
+  <script src="leaflet/leaflet.js"
+     integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM="
+     crossorigin=""></script>
 </head>
 
 <center> 
