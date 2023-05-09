@@ -18,11 +18,21 @@ permalink: /map
 
 <script src="groceryStores.js"></script>
 
+<script src="farmersMarkets.js"></script>
+
 
 <center> 
   <h2>About the Map</h2>
 
   This map was created using data from the <a href="https://www.cdfa.ca.gov/is/docs/CurrentMrktsCounty.pdf">California Department of Food and Agriculture's</a> list of certified farmers' markets and <a href ="https://data.lacity.org/Administration-Finance/Grocery-Stores/g986-7yf9">LA City's</a> list of all active grocery store businesses registered with the Office of Finance.
+
+  <p> </p>
+
+  <em> Blue = Farmers' Market </em>
+
+  <p> </p>
+
+  <em> Green = Grocery Store </em>
 
   <p> </p>
 
@@ -46,10 +56,18 @@ permalink: /map
   var greenIcon = L.icon({
     iconUrl: 'marker-icon.png',
 
-    iconSize:     [38, 95], // size of the icon
-    iconAnchor:   [22, 94], // point of the icon which will correspond to marker's location
+    iconSize:     [14, 23], // size of the icon
+    iconAnchor:   [7, 23], // point of the icon which will correspond to marker's location
     popupAnchor:  [-3, -76] // point from which the popup should open relative to the iconAnchor
   });
+
+  var blueIcon = L.icon({
+    iconUrl: 'marker-icon-blue.png',
+
+    iconSize:     [14, 23], // size of the icon
+    iconAnchor:   [7, 23], // point of the icon which will correspond to marker's location
+    popupAnchor:  [-3, -76] // point from which the popup should open relative to the iconAnchor
+  })
 
   for(let i = 0; i < groceryStores.length; i++){
     let groceryStore = groceryStores[i];
@@ -59,6 +77,17 @@ permalink: /map
     if(groceryStore.geometry.coordinates[0] != null && groceryStore.geometry.coordinates[1] != null) {
       console.log(groceryStore.geometry.coordinates[0]);
       L.marker([groceryStore.geometry.coordinates[1], groceryStore.geometry.coordinates[0]], {icon: greenIcon}).addTo(geoMap);
+    }
+  }
+
+  for(let i = 0; i < farmersMarkets.length; i++){
+    let farmerMarket = farmersMarkets[i];
+
+    console.log(i);
+
+    if(farmerMarket.geometry.coordinates[0] != null && farmerMarket.geometry.coordinates[1] != null) {
+      console.log(farmerMarket.geometry.coordinates[0]);
+      L.marker([farmerMarket.geometry.coordinates[1], farmerMarket.geometry.coordinates[0]], {icon: blueIcon}).addTo(geoMap);
     }
   }
 
