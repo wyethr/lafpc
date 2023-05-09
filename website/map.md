@@ -46,6 +46,8 @@ permalink: /map
   for(let i = 0; i < groceryStores.length; i++){
     let obj = groceryStores[i];
 
+
+    console.log(i);
     console.log(obj.id);
   }
 
