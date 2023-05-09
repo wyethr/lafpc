@@ -42,10 +42,11 @@ permalink: /map
     // add GeoJSON layer to the map once the file is loaded
     L.geoJson(data).addTo(geoMap);
   });
-  
+
   for(var key in groceryStores.FeatureCollection){
+    console.log(key);
       console.log(groceryStores.FeatureCollection[key]);
-      console.log("hello");
+      console.log("beyond key");
       
   }
 
