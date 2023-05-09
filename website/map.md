@@ -44,8 +44,8 @@ permalink: /map
   });
 
 console.log("hello");
-  for(var key in groceryStores.jsonData){
-      console.log(groceryStores.jsonData[key]);
+  for(var key in groceryStores.FeatureCollection){
+      console.log(groceryStores.FeatureCollection[key]);
 
       
   }
