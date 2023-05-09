@@ -7,7 +7,7 @@ permalink: /map
 <head>
   <link rel="stylesheet" href="style.css">
   
-  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"
+  <link rel="stylesheet" href="leaflet/leaflet.css"
      integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI="
      crossorigin=""/>
 
@@ -34,13 +34,6 @@ permalink: /map
     maxZoom: 19,
     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
   }).addTo(geoMap);
-
-  var groceryStyle = {
-    "type": "Point",
-    "color": "#ff7800",
-    "weight": 5,
-    "opacity": 0.65
-  };
 
   fetch("Grocery_Stores.geojson").then(res => res.json()).then(data => {
     // add GeoJSON layer to the map once the file is loaded
