@@ -16,6 +16,9 @@ permalink: /map
      crossorigin=""></script>
 </head>
 
+<script src="groceryStores.js"></script>
+
+
 <center> 
   <h2>About the Map</h2>
 
@@ -39,6 +42,11 @@ permalink: /map
     // add GeoJSON layer to the map once the file is loaded
     L.geoJson(data).addTo(geoMap);
   });
+
+
+  for(var key in groceryStores.jsonData){
+      console.log(groceryStores.geometry.coordinates[key])
+  }
 
   /* fetch("Farmers_Markets.geojson").then(res => res.json()).then(data => {
     // add GeoJSON layer to the map once the file is loaded
