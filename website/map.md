@@ -47,8 +47,8 @@ permalink: /map
     L.geoJson(data).addTo(geoMap);
   });
 
-  fetch("Farmers_Markets.geojson").then(res => res.json()).then(data => {
+  /* fetch("Farmers_Markets.geojson").then(res => res.json()).then(data => {
     // add GeoJSON layer to the map once the file is loaded
     L.geoJson(data).addTo(geoMap);
-  });
+  }); */
 </script>
