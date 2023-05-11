@@ -2,7 +2,7 @@
 
 https://wyethr.github.io/lafpc/
 
-TOTAL NUMBER OF SOURCES: 23 [need to count]
+TOTAL NUMBER OF SOURCES: 62
 
 NEW POTENTIAL DATA POINTS: 
 *** Childhood Food Insecurity
