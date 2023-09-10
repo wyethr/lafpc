@@ -48,6 +48,48 @@ FORMAT FOR NEW SOURCES:
     }
     ,
 
+ELENA SOURCES: 
+
+Stores that accept EBT
+https://foodstampsnow.com/wp-content/uploads/2017/12/List-of-EBT-accepted-Stores-in-LA-Sheet1.pdf
+
+https://static1.squarespace.com/static/5bc50618ab1a624d324ecd81/t/62abbefa3e225d40348ca7ce/1655422751243/FreshIdeasforCalFresh.pdf
+
+https://static1.squarespace.com/static/5bc50618ab1a624d324ecd81/t/5be5fda240ec9a789e87e811/1541799360838/GoodFoodforAllAgenda2018.pdf
+
+https://drive.google.com/file/d/1Sj3Xy7HnIJNUkGIjF9vntuaNb30NMcs3/view
+
+https://ecologycenter.org/fmfinder/
+
+https://www.lafoodbank.org/find-food/pantry-locator/
+
+https://usda-fns.maps.arcgis.com/apps/webappviewer/index.html?id=e1f3028b217344d78b324193b10375e4
+
+WIC locations in los angeles
+https://www.wicprogram.net/wic-approved-stores-in-los-angeles-ca-wsc1504
+
+WIC locations in California
+https://www.cdph.ca.gov/Programs/CFH/DWICSN/CDPH%20Document%20Library/WICCard/Stores%20Accepting%20California%20WIC%20Card.pdf
+
+WIC by zipcode
+https://myfamily.wic.ca.gov/Home/WICOfficeGrocer
+
+Food Distribution Program on Indian Reservations
+https://fns-prod.azureedge.us/sites/default/files/ops/StudyofFDPIR.pdf
+https://www.federalregister.gov/documents/2022/10/18/2022-22570/food-distribution-program-on-indian-reservations-self-determination-demonstration-project
+https://fns-prod.azureedge.us/sites/default/files/ops/FDPIRRegionalVendorPilot-Entire%20Report.pdf
+https://www.fns.usda.gov/pd/food-distribution-program-tables
+https://fns-prod.azureedge.us/sites/default/files/ops/TribalAdministration.pdf
+(dates of publication included)
+
+Multi-Agency Task Force Report to Congress, July 2016
+https://fns-prod.azureedge.us/sites/default/files/fdd/Multi-Agency-Taskforce-Report-Congress-2016.pdf
+
+https://hjhp.hkspublications.org/wp-content/uploads/sites/15/2022/06/FINAL_HJHP-Volume-34.pdf#page=8
+https://scholarworks.calstate.edu/downloads/hm50tx29z
+
+https://static1.squarespace.com/static/5bc50618ab1a624d324ecd81/t/5e45c5915750af6b4e5e5c4b/1581630905550/2020FoodSystemDashboard.pdf
+
 NEW SOURCES: 
 
 http://healthpolicy.ucla.edu/chis/Pages/default.aspx
